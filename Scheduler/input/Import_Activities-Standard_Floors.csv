@@ -1,0 +1,31 @@
+ID,Name,Duration
+10,Layout & Top Track,6
+20,Rough Duct Work,5
+30,Rough Mechanical Piping,5
+40,Rough Plumbing,5
+50,Rough Sprinkler,5
+60,Rough Electrical,5
+70,Frame Walls & Ceilings,5
+80,Install Plumbing Frames & Crotons,5
+90,Pull Wire,15
+100,Firestopping & Inspections,5
+110,Sheetrock & Tape Walls & Celings,15
+120,Prime Paint,4
+130,Install Mechanical Finishes,2
+140,Install Sprinkler Heads,4
+150,Install Plumbing Finishes,1
+160,Install Electrical Finishes,4
+170,Install Lighting,4
+180,"Install Vanity, Sink & Shower Enclosure",6
+190,Tile Bathroom Floors & Walls,12
+200,Install Kitchen Cabinets,8
+210,Install Kitchen Counters,5
+220,Install Kitchen Sink,3
+230,Install Flooring & Carpet,6
+240,Install Kitchen Appliances,5
+250,Install Architectural Finishes & Trim,10
+260,Install Doors,5
+270,Install Corridor Carpet,3
+280,Perform Plumbing & Sprinkler Finish Inspection,1
+290,Final Paint Coat on Walls & Trim,4
+300,Punchlist,5
