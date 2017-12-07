@@ -1,0 +1,901 @@
+ID,Name,Duration,AS,AF,Floor
+10,Layout & Top Track @ 13th Floor,6,9-Jan-15,16-Jan-15,13
+20,Rough Duct Work @ 13th Floor,5,15-Jan-15,19-Jan-15,13
+30,Rough Mechanical Piping @ 13th Floor,5,15-Jan-15,19-Jan-15,13
+40,Rough Plumbing @ 13th Floor,5,15-Jan-15,19-Jan-15,13
+50,Rough Sprinkler @ 13th Floor,5,15-Jan-15,19-Jan-15,13
+60,Rough Electrical @ 13th Floor,5,15-Jan-15,19-Jan-15,13
+70,Frame Walls & Ceilings @ 13th Floor,5,30-Jan-15,5-Nov-15,13
+80,Install Plumbing Frames & Crotons @ 13th Floor,5,16-Feb-15,6-Nov-15,13
+90,Pull Wire @ 13th Floor,15,16-Feb-15,6-Nov-15,13
+100,Firestopping & Inspections @ 13th Floor,5,6-Nov-15,23-Dec-15,13
+110,Sheetrock & Tape Walls & Celings @ 13th Floor,15,12-Nov-15,1-Dec-15,13
+120,Prime Paint @ 13th Floor,4,9-Dec-15,14-Dec-15,13
+130,Install Mechanical Finishes @ 13th Floor,2,18-Dec-15,21-Dec-15,13
+140,Install Sprinkler Heads @ 13th Floor,4,15-Dec-15,17-Dec-15,13
+150,Install Plumbing Finishes @ 13th Floor,1,18-Dec-15,18-Dec-15,13
+160,Install Electrical Finishes @ 13th Floor,4,15-Dec-15,18-Dec-15,13
+170,Install Lighting @ 13th Floor,4,15-Dec-15,18-Dec-15,13
+180,"Install Vanity, Sink & Shower Enclosure @ 13th Floor",6,29-Apr-16,6-May-16,13
+190,Tile Bathroom Floors & Walls @ 13th Floor,12,11-Dec-15,29-Dec-15,13
+200,Install Kitchen Cabinets @ 13th Floor,8,4-May-16,,13
+210,Install Kitchen Counters  @ 13th Floor,5,11-May-16,,13
+220,Install Kitchen Sink @ 13th Floor,3,10-May-16,,13
+230,Install Flooring & Carpet @ 13th Floor,6,,,13
+240,Install Kitchen Appliances @ 13th Floor,5,10-May-16,,13
+250,Install Architectural Finishes & Trim  @ 13th Floor,10,,,13
+260,Install Doors @ 13th Floor,5,,,13
+270,Install Corridor Carpet @ 13th Floor,3,,,13
+280,Perform Plumbing & Sprinkler Finish Inspection @ 13th Floor,1,,,13
+290,Final Paint Coat on Walls & Trim @ 13th Floor,4,,,13
+300,Punchlist  @ 13th Floor,5,,,13
+10,Layout & Top Track @ 14th Floor,6,16-Dec-14,23-Dec-14,14
+20,Rough Duct Work @ 14th Floor,5,22-Dec-14,24-Dec-14,14
+30,Rough Mechanical Piping @ 14th Floor,5,22-Dec-14,24-Dec-14,14
+40,Rough Plumbing @ 14th Floor,5,22-Dec-14,24-Dec-14,14
+50,Rough Sprinkler @ 14th Floor,5,22-Dec-14,24-Dec-14,14
+60,Rough Electrical @ 14th Floor,5,22-Dec-14,24-Dec-14,14
+70,Frame Walls & Ceilings @ 14th Floor,5,8-Jan-15,20-Jan-15,14
+80,Install Plumbing Frames & Crotons @ 14th Floor,5,21-Jan-15,23-Jan-15,14
+90,Pull Wire @ 14th Floor,15,21-Jan-15,23-Jan-15,14
+100,Firestopping & Inspections @ 14th Floor,5,26-Jan-15,1-Dec-15,14
+110,Sheetrock & Tape Walls & Celings @ 14th Floor,15,10-Nov-15,18-Nov-15,14
+120,Prime Paint @ 14th Floor,4,10-Dec-15,15-Dec-15,14
+130,Install Mechanical Finishes @ 14th Floor,2,24-Nov-15,25-Nov-15,14
+140,Install Sprinkler Heads @ 14th Floor,4,24-Nov-15,30-Nov-15,14
+150,Install Plumbing Finishes @ 14th Floor,1,1-Dec-15,1-Dec-15,14
+160,Install Electrical Finishes @ 14th Floor,4,24-Nov-15,30-Nov-15,14
+170,Install Lighting @ 14th Floor,4,24-Nov-15,30-Nov-15,14
+180,"Install Vanity, Sink & Shower Enclosure @ 14th Floor",6,4-May-16,11-May-16,14
+190,Tile Bathroom Floors & Walls @ 14th Floor,12,21-Dec-15,7-Jan-16,14
+200,Install Kitchen Cabinets @ 14th Floor,8,4-May-16,,14
+210,Install Kitchen Counters  @ 14th Floor,5,11-May-16,,14
+220,Install Kitchen Sink @ 14th Floor,3,16-May-16,,14
+230,Install Flooring & Carpet @ 14th Floor,6,,,14
+240,Install Kitchen Appliances @ 14th Floor,5,16-May-16,,14
+250,Install Architectural Finishes & Trim  @ 14th Floor,10,,,14
+260,Install Doors @ 14th Floor,5,,,14
+270,Install Corridor Carpet @ 14th Floor,3,,,14
+280,Perform Plumbing & Sprinkler Finish Inspection @ 14th Floor,1,,,14
+290,Final Paint Coat on Walls & Trim @ 14th Floor,4,,,14
+300,Punchlist  @ 14th Floor,5,,,14
+10,Layout & Top Track @ 15th Floor,6,31-Dec-14,8-Jan-15,15
+20,Rough Duct Work @ 15th Floor,5,7-Jan-15,9-Jan-15,15
+30,Rough Mechanical Piping @ 15th Floor,5,7-Jan-15,9-Jan-15,15
+40,Rough Plumbing @ 15th Floor,5,7-Jan-15,9-Jan-15,15
+50,Rough Sprinkler @ 15th Floor,5,7-Jan-15,9-Jan-15,15
+60,Rough Electrical @ 15th Floor,5,7-Jan-15,9-Jan-15,15
+70,Frame Walls & Ceilings @ 15th Floor,5,22-Jan-15,3-Feb-15,15
+80,Install Plumbing Frames & Crotons @ 15th Floor,5,4-Feb-15,6-Feb-15,15
+90,Pull Wire @ 15th Floor,15,4-Feb-15,6-Feb-15,15
+100,Firestopping & Inspections @ 15th Floor,5,9-Feb-15,3-Dec-15,15
+110,Sheetrock & Tape Walls & Celings @ 15th Floor,15,12-Feb-15,3-Dec-15,15
+120,Prime Paint @ 15th Floor,4,10-Dec-15,15-Dec-15,15
+130,Install Mechanical Finishes @ 15th Floor,2,30-Nov-15,1-Dec-15,15
+140,Install Sprinkler Heads @ 15th Floor,4,30-Nov-15,2-Dec-15,15
+150,Install Plumbing Finishes @ 15th Floor,1,3-Dec-15,3-Dec-15,15
+160,Install Electrical Finishes @ 15th Floor,4,24-Nov-15,30-Nov-15,15
+170,Install Lighting @ 15th Floor,4,30-Nov-15,3-Dec-15,15
+180,"Install Vanity, Sink & Shower Enclosure @ 15th Floor",6,4-May-16,,15
+190,Tile Bathroom Floors & Walls @ 15th Floor,12,21-Dec-15,7-Jan-16,15
+200,Install Kitchen Cabinets @ 15th Floor,8,4-May-16,,15
+210,Install Kitchen Counters  @ 15th Floor,5,11-May-16,,15
+220,Install Kitchen Sink @ 15th Floor,3,16-May-16,,15
+230,Install Flooring & Carpet @ 15th Floor,6,,,15
+240,Install Kitchen Appliances @ 15th Floor,5,16-May-16,,15
+250,Install Architectural Finishes & Trim  @ 15th Floor,10,19-May-16,,15
+260,Install Doors @ 15th Floor,5,,,15
+270,Install Corridor Carpet @ 15th Floor,3,,,15
+280,Perform Plumbing & Sprinkler Finish Inspection @ 15th Floor,1,,,15
+290,Final Paint Coat on Walls & Trim @ 15th Floor,4,,,15
+300,Punchlist  @ 15th Floor,5,,,15
+10,Layout & Top Track @ 16th Floor,6,15-Jan-15,22-Jan-15,16
+20,Rough Duct Work @ 16th Floor,5,21-Jan-15,23-Jan-15,16
+30,Rough Mechanical Piping @ 16th Floor,5,42025,42027,16
+40,Rough Plumbing @ 16th Floor,5,21-Jan-15,23-Jan-15,16
+50,Rough Sprinkler @ 16th Floor,5,21-Jan-15,23-Jan-15,16
+60,Rough Electrical @ 16th Floor,5,21-Jan-15,23-Jan-15,16
+70,Frame Walls & Ceilings @ 16th Floor,5,5-Feb-15,30-Oct-15,16
+80,Install Plumbing Frames & Crotons @ 16th Floor,5,2-Nov-15,6-Nov-15,16
+90,Pull Wire @ 16th Floor,15,10-Nov-15,18-Nov-15,16
+100,Firestopping & Inspections @ 16th Floor,5,10-Nov-15,22-Dec-15,16
+110,Sheetrock & Tape Walls & Celings @ 16th Floor,15,2-Dec-15,21-Dec-15,16
+120,Prime Paint @ 16th Floor,4,16-Dec-15,21-Dec-15,16
+130,Install Mechanical Finishes @ 16th Floor,2,16-Dec-15,17-Dec-15,16
+140,Install Sprinkler Heads @ 16th Floor,4,16-Dec-15,18-Dec-15,16
+150,Install Plumbing Finishes @ 16th Floor,1,21-Dec-15,21-Dec-15,16
+160,Install Electrical Finishes @ 16th Floor,4,16-Dec-15,21-Dec-15,16
+170,Install Lighting @ 16th Floor,4,16-Dec-15,21-Dec-15,16
+180,"Install Vanity, Sink & Shower Enclosure @ 16th Floor",6,,,16
+190,Tile Bathroom Floors & Walls @ 16th Floor,12,,,16
+200,Install Kitchen Cabinets @ 16th Floor,8,,,16
+210,Install Kitchen Counters  @ 16th Floor,5,,,16
+220,Install Kitchen Sink @ 16th Floor,3,,,16
+230,Install Flooring & Carpet @ 16th Floor,6,,,16
+240,Install Kitchen Appliances @ 16th Floor,5,,,16
+250,Install Architectural Finishes & Trim  @ 16th Floor,10,,,16
+260,Install Doors @ 16th Floor,5,,,16
+270,Install Corridor Carpet @ 16th Floor,3,,,16
+280,Perform Plumbing & Sprinkler Finish Inspection @ 16th Floor,1,,,16
+290,Final Paint Coat on Walls & Trim @ 16th Floor,4,,,16
+300,Punchlist  @ 16th Floor,5,,,16
+10,Layout & Top Track @ 17th Floor,6,29-Jan-15,5-Feb-15,17
+20,Rough Duct Work @ 17th Floor,5,4-Feb-15,6-Feb-15,17
+30,Rough Mechanical Piping @ 17th Floor,5,4-Feb-15,6-Feb-15,17
+40,Rough Plumbing @ 17th Floor,5,4-Feb-15,6-Feb-15,17
+50,Rough Sprinkler @ 17th Floor,5,4-Feb-15,6-Feb-15,17
+60,Rough Electrical @ 17th Floor,5,4-Feb-15,6-Feb-15,17
+70,Frame Walls & Ceilings @ 17th Floor,5,9-Mar-15,6-Nov-15,17
+80,Install Plumbing Frames & Crotons @ 17th Floor,5,10-Nov-15,16-Nov-15,17
+90,Pull Wire @ 17th Floor,15,17-Nov-15,4-Dec-15,17
+100,Firestopping & Inspections @ 17th Floor,5,7-Dec-15,29-Dec-15,17
+110,Sheetrock & Tape Walls & Celings @ 17th Floor,15,10-Dec-15,29-Dec-15,17
+120,Prime Paint @ 17th Floor,4,22-Dec-15,28-Dec-15,17
+130,Install Mechanical Finishes @ 17th Floor,2,22-Dec-15,23-Dec-15,17
+140,Install Sprinkler Heads @ 17th Floor,4,22-Dec-15,28-Dec-15,17
+150,Install Plumbing Finishes @ 17th Floor,1,29-Dec-15,29-Dec-15,17
+160,Install Electrical Finishes @ 17th Floor,4,22-Dec-15,28-Dec-15,17
+170,Install Lighting @ 17th Floor,4,22-Dec-15,28-Dec-15,17
+180,"Install Vanity, Sink & Shower Enclosure @ 17th Floor",6,,,17
+190,Tile Bathroom Floors & Walls @ 17th Floor,12,,,17
+200,Install Kitchen Cabinets @ 17th Floor,8,,,17
+210,Install Kitchen Counters  @ 17th Floor,5,,,17
+220,Install Kitchen Sink @ 17th Floor,3,,,17
+230,Install Flooring & Carpet @ 17th Floor,6,,,17
+240,Install Kitchen Appliances @ 17th Floor,5,,,17
+250,Install Architectural Finishes & Trim  @ 17th Floor,10,,,17
+260,Install Doors @ 17th Floor,5,,,17
+270,Install Corridor Carpet @ 17th Floor,3,,,17
+280,Perform Plumbing & Sprinkler Finish Inspection @ 17th Floor,1,,,17
+290,Final Paint Coat on Walls & Trim @ 17th Floor,4,,,17
+300,Punchlist  @ 17th Floor,5,,,17
+10,Layout & Top Track @ 18th Floor,6,12-Feb-15,15-Oct-15,18
+20,Rough Duct Work @ 18th Floor,5,14-Oct-15,16-Oct-15,18
+30,Rough Mechanical Piping @ 18th Floor,5,14-Oct-15,16-Oct-15,18
+40,Rough Plumbing @ 18th Floor,5,14-Oct-15,16-Oct-15,18
+50,Rough Sprinkler @ 18th Floor,5,14-Oct-15,16-Oct-15,18
+60,Rough Electrical @ 18th Floor,5,14-Oct-15,16-Oct-15,18
+70,Frame Walls & Ceilings @ 18th Floor,5,29-Oct-15,12-Nov-15,18
+80,Install Plumbing Frames & Crotons @ 18th Floor,5,13-Nov-15,19-Nov-15,18
+90,Pull Wire @ 18th Floor,15,20-Nov-15,9-Dec-15,18
+100,Firestopping & Inspections @ 18th Floor,5,10-Dec-15,15-Jan-16,18
+110,Sheetrock & Tape Walls & Celings @ 18th Floor,15,15-Dec-15,6-Jan-16,18
+120,Prime Paint @ 18th Floor,4,,,18
+130,Install Mechanical Finishes @ 18th Floor,2,12-Jan-16,13-Jan-16,18
+140,Install Sprinkler Heads @ 18th Floor,4,12-Jan-16,14-Jan-16,18
+150,Install Plumbing Finishes @ 18th Floor,1,15-Jan-16,15-Jan-16,18
+160,Install Electrical Finishes @ 18th Floor,4,12-Jan-16,15-Jan-16,18
+170,Install Lighting @ 18th Floor,4,13-Jan-16,18-Jan-16,18
+180,"Install Vanity, Sink & Shower Enclosure @ 18th Floor",6,,,18
+190,Tile Bathroom Floors & Walls @ 18th Floor,12,22-Feb-16,8-Mar-16,18
+200,Install Kitchen Cabinets @ 18th Floor,8,,,18
+210,Install Kitchen Counters  @ 18th Floor,5,,,18
+220,Install Kitchen Sink @ 18th Floor,3,,,18
+230,Install Flooring & Carpet @ 18th Floor,6,,,18
+240,Install Kitchen Appliances @ 18th Floor,5,,,18
+250,Install Architectural Finishes & Trim  @ 18th Floor,10,,,18
+260,Install Doors @ 18th Floor,5,,,18
+270,Install Corridor Carpet @ 18th Floor,3,,,18
+280,Perform Plumbing & Sprinkler Finish Inspection @ 18th Floor,1,,,18
+290,Final Paint Coat on Walls & Trim @ 18th Floor,4,,,18
+300,Punchlist  @ 18th Floor,5,,,18
+10,Layout & Top Track @ 19th Floor,6,27-Oct-15,3-Nov-15,19
+20,Rough Duct Work @ 19th Floor,5,2-Nov-15,4-Nov-15,19
+30,Rough Mechanical Piping @ 19th Floor,5,2-Nov-15,4-Nov-15,19
+40,Rough Plumbing @ 19th Floor,5,2-Nov-15,4-Nov-15,19
+50,Rough Sprinkler @ 19th Floor,5,2-Nov-15,4-Nov-15,19
+60,Rough Electrical @ 19th Floor,5,2-Nov-15,4-Nov-15,19
+70,Frame Walls & Ceilings @ 19th Floor,5,18-Nov-15,2-Dec-15,19
+80,Install Plumbing Frames & Crotons @ 19th Floor,5,3-Dec-15,9-Dec-15,19
+90,Pull Wire @ 19th Floor,15,10-Dec-15,29-Dec-15,19
+100,Firestopping & Inspections @ 19th Floor,5,30-Dec-15,21-Jan-16,19
+110,Sheetrock & Tape Walls & Celings @ 19th Floor,15,5-Jan-16,21-Jan-16,19
+120,Prime Paint @ 19th Floor,4,18-Jan-16,21-Jan-16,19
+130,Install Mechanical Finishes @ 19th Floor,2,18-Jan-16,19-Jan-16,19
+140,Install Sprinkler Heads @ 19th Floor,4,18-Jan-16,20-Jan-16,19
+150,Install Plumbing Finishes @ 19th Floor,1,22-Jan-16,22-Jan-16,19
+160,Install Electrical Finishes @ 19th Floor,4,18-Jan-16,21-Jan-16,19
+170,Install Lighting @ 19th Floor,4,18-Jan-16,21-Jan-16,19
+180,"Install Vanity, Sink & Shower Enclosure @ 19th Floor",6,,,19
+190,Tile Bathroom Floors & Walls @ 19th Floor,12,4-Feb-16,19-Feb-16,19
+200,Install Kitchen Cabinets @ 19th Floor,8,,,19
+210,Install Kitchen Counters  @ 19th Floor,5,,,19
+220,Install Kitchen Sink @ 19th Floor,3,,,19
+230,Install Flooring & Carpet @ 19th Floor,6,,,19
+240,Install Kitchen Appliances @ 19th Floor,5,,,19
+250,Install Architectural Finishes & Trim  @ 19th Floor,10,,,19
+260,Install Doors @ 19th Floor,5,,,19
+270,Install Corridor Carpet @ 19th Floor,3,,,19
+280,Perform Plumbing & Sprinkler Finish Inspection @ 19th Floor,1,,,19
+290,Final Paint Coat on Walls & Trim @ 19th Floor,4,,,19
+300,Punchlist  @ 19th Floor,5,,,19
+10,Layout & Top Track @ 20th Floor,6,2-Nov-15,10-Nov-15,20
+20,Rough Duct Work @ 20th Floor,5,6-Nov-15,11-Nov-15,20
+30,Rough Mechanical Piping @ 20th Floor,5,6-Nov-15,11-Nov-15,20
+40,Rough Plumbing @ 20th Floor,5,6-Nov-15,11-Nov-15,20
+50,Rough Sprinkler @ 20th Floor,5,6-Nov-15,11-Nov-15,20
+60,Rough Electrical @ 20th Floor,5,6-Nov-15,11-Nov-15,20
+70,Frame Walls & Ceilings @ 20th Floor,5,24-Nov-15,8-Dec-15,20
+80,Install Plumbing Frames & Crotons @ 20th Floor,5,9-Dec-15,15-Dec-15,20
+90,Pull Wire @ 20th Floor,15,16-Dec-15,5-Jan-16,20
+100,Firestopping & Inspections @ 20th Floor,5,6-Jan-16,27-Jan-16,20
+110,Sheetrock & Tape Walls & Celings @ 20th Floor,15,11-Jan-16,27-Jan-16,20
+120,Prime Paint @ 20th Floor,4,22-Jan-16,27-Jan-16,20
+130,Install Mechanical Finishes @ 20th Floor,2,22-Jan-16,25-Jan-16,20
+140,Install Sprinkler Heads @ 20th Floor,4,22-Jan-16,26-Jan-16,20
+150,Install Plumbing Finishes @ 20th Floor,1,27-Jan-16,27-Jan-16,20
+160,Install Electrical Finishes @ 20th Floor,4,22-Jan-16,27-Jan-16,20
+170,Install Lighting @ 20th Floor,4,22-Jan-16,27-Jan-16,20
+180,"Install Vanity, Sink & Shower Enclosure @ 20th Floor",6,,,20
+190,Tile Bathroom Floors & Walls @ 20th Floor,12,,,20
+200,Install Kitchen Cabinets @ 20th Floor,8,,,20
+210,Install Kitchen Counters  @ 20th Floor,5,,,20
+220,Install Kitchen Sink @ 20th Floor,3,,,20
+230,Install Flooring & Carpet @ 20th Floor,6,,,20
+240,Install Kitchen Appliances @ 20th Floor,5,,,20
+250,Install Architectural Finishes & Trim  @ 20th Floor,10,,,20
+260,Install Doors @ 20th Floor,5,,,20
+270,Install Corridor Carpet @ 20th Floor,3,,,20
+280,Perform Plumbing & Sprinkler Finish Inspection @ 20th Floor,1,,,20
+290,Final Paint Coat on Walls & Trim @ 20th Floor,4,,,20
+300,Punchlist  @ 20th Floor,5,,,20
+10,Layout & Top Track @ 21st Floor,6,6-Nov-15,16-Nov-15,21
+20,Rough Duct Work @ 21st Floor,5,13-Nov-15,17-Nov-15,21
+30,Rough Mechanical Piping @ 21st Floor,5,13-Nov-15,17-Nov-15,21
+40,Rough Plumbing @ 21st Floor,5,13-Nov-15,17-Nov-15,21
+50,Rough Sprinkler @ 21st Floor,5,13-Nov-15,17-Nov-15,21
+60,Rough Electrical @ 21st Floor,5,13-Nov-15,17-Nov-15,21
+70,Frame Walls & Ceilings @ 21st Floor,5,1-Dec-15,14-Dec-15,21
+80,Install Plumbing Frames & Crotons @ 21st Floor,5,15-Dec-15,21-Dec-15,21
+90,Pull Wire @ 21st Floor,15,22-Dec-15,11-Jan-16,21
+100,Firestopping & Inspections @ 21st Floor,5,12-Jan-16,2-Feb-16,21
+110,Sheetrock & Tape Walls & Celings @ 21st Floor,15,15-Jan-16,2-Feb-16,21
+120,Prime Paint @ 21st Floor,4,28-Jan-16,2-Feb-16,21
+130,Install Mechanical Finishes @ 21st Floor,2,28-Jan-16,29-Jan-16,21
+140,Install Sprinkler Heads @ 21st Floor,4,28-Jan-16,1-Feb-16,21
+150,Install Plumbing Finishes @ 21st Floor,1,2-Feb-16,2-Feb-16,21
+160,Install Electrical Finishes @ 21st Floor,4,28-Jan-16,2-Feb-16,21
+170,Install Lighting @ 21st Floor,4,28-Jan-16,2-Feb-16,21
+180,"Install Vanity, Sink & Shower Enclosure @ 21st Floor",6,,,21
+190,Tile Bathroom Floors & Walls @ 21st Floor,12,,,21
+200,Install Kitchen Cabinets @ 21st Floor,8,,,21
+210,Install Kitchen Counters  @ 21st Floor,5,,,21
+220,Install Kitchen Sink @ 21st Floor,3,,,21
+230,Install Flooring & Carpet @ 21st Floor,6,,,21
+240,Install Kitchen Appliances @ 21st Floor,5,,,21
+250,Install Architectural Finishes & Trim  @ 21st Floor,10,,,21
+260,Install Doors @ 21st Floor,5,,,21
+270,Install Corridor Carpet @ 21st Floor,3,,,21
+280,Perform Plumbing & Sprinkler Finish Inspection @ 21st Floor,1,,,21
+290,Final Paint Coat on Walls & Trim @ 21st Floor,4,,,21
+300,Punchlist  @ 21st Floor,5,,,21
+10,Layout & Top Track @ 22nd Floor,6,13-Nov-15,20-Nov-15,22
+20,Rough Duct Work @ 22nd Floor,5,19-Nov-15,23-Nov-15,22
+30,Rough Mechanical Piping @ 22nd Floor,5,19-Nov-15,23-Nov-15,22
+40,Rough Plumbing @ 22nd Floor,5,19-Nov-15,23-Nov-15,22
+50,Rough Sprinkler @ 22nd Floor,5,19-Nov-15,23-Nov-15,22
+60,Rough Electrical @ 22nd Floor,5,19-Nov-15,23-Nov-15,22
+70,Frame Walls & Ceilings @ 22nd Floor,5,7-Dec-15,18-Dec-15,22
+80,Install Plumbing Frames & Crotons @ 22nd Floor,5,21-Dec-15,28-Dec-15,22
+90,Pull Wire @ 22nd Floor,15,29-Dec-15,15-Jan-16,22
+100,Firestopping & Inspections @ 22nd Floor,5,18-Jan-16,8-Feb-16,22
+110,Sheetrock & Tape Walls & Celings @ 22nd Floor,15,21-Jan-16,8-Feb-16,22
+120,Prime Paint @ 22nd Floor,4,3-Feb-16,8-Feb-16,22
+130,Install Mechanical Finishes @ 22nd Floor,2,3-Feb-16,4-Feb-16,22
+140,Install Sprinkler Heads @ 22nd Floor,4,3-Feb-16,5-Feb-16,22
+150,Install Plumbing Finishes @ 22nd Floor,1,8-Feb-16,8-Feb-16,22
+160,Install Electrical Finishes @ 22nd Floor,4,3-Feb-16,8-Feb-16,22
+170,Install Lighting @ 22nd Floor,4,3-Feb-16,8-Feb-16,22
+180,"Install Vanity, Sink & Shower Enclosure @ 22nd Floor",6,,,22
+190,Tile Bathroom Floors & Walls @ 22nd Floor,12,,,22
+200,Install Kitchen Cabinets @ 22nd Floor,8,,,22
+210,Install Kitchen Counters  @ 22nd Floor,5,,,22
+220,Install Kitchen Sink @ 22nd Floor,3,,,22
+230,Install Flooring & Carpet @ 22nd Floor,6,,,22
+240,Install Kitchen Appliances @ 22nd Floor,5,,,22
+250,Install Architectural Finishes & Trim  @ 22nd Floor,10,,,22
+260,Install Doors @ 22nd Floor,5,,,22
+270,Install Corridor Carpet @ 22nd Floor,3,,,22
+280,Perform Plumbing & Sprinkler Finish Inspection @ 22nd Floor,1,,,22
+290,Final Paint Coat on Walls & Trim @ 22nd Floor,4,,,22
+300,Punchlist  @ 22nd Floor,5,,,22
+10,Layout & Top Track @ 23rd Floor,6,25-Jan-16,1-Feb-16,23
+20,Rough Duct Work @ 23rd Floor,5,29-Jan-16,2-Feb-16,23
+30,Rough Mechanical Piping @ 23rd Floor,5,29-Jan-16,2-Feb-16,23
+40,Rough Plumbing @ 23rd Floor,5,29-Jan-16,2-Feb-16,23
+50,Rough Sprinkler @ 23rd Floor,5,29-Jan-16,2-Feb-16,23
+60,Rough Electrical @ 23rd Floor,5,29-Jan-16,2-Feb-16,23
+70,Frame Walls & Ceilings @ 23rd Floor,5,15-Feb-16,26-Feb-16,23
+80,Install Plumbing Frames & Crotons @ 23rd Floor,5,29-Feb-16,4-Mar-16,23
+90,Pull Wire @ 23rd Floor,15,7-Mar-16,23-Mar-16,23
+100,Firestopping & Inspections @ 23rd Floor,5,24-Mar-16,28-Mar-16,23
+110,Sheetrock & Tape Walls & Celings @ 23rd Floor,15,,,23
+120,Prime Paint @ 23rd Floor,4,,,23
+130,Install Mechanical Finishes @ 23rd Floor,2,,,23
+140,Install Sprinkler Heads @ 23rd Floor,4,,,23
+150,Install Plumbing Finishes @ 23rd Floor,1,,,23
+160,Install Electrical Finishes @ 23rd Floor,4,,,23
+170,Install Lighting @ 23rd Floor,4,,,23
+180,"Install Vanity, Sink & Shower Enclosure @ 23rd Floor",6,,,23
+190,Tile Bathroom Floors & Walls @ 23rd Floor,12,,,23
+200,Install Kitchen Cabinets @ 23rd Floor,8,,,23
+210,Install Kitchen Counters  @ 23rd Floor,5,,,23
+220,Install Kitchen Sink @ 23rd Floor,3,,,23
+230,Install Flooring & Carpet @ 23rd Floor,6,,,23
+240,Install Kitchen Appliances @ 23rd Floor,5,,,23
+250,Install Architectural Finishes & Trim  @ 23rd Floor,10,,,23
+260,Install Doors @ 23rd Floor,5,,,23
+270,Install Corridor Carpet @ 23rd Floor,3,,,23
+280,Perform Plumbing & Sprinkler Finish Inspection @ 23rd Floor,1,,,23
+290,Final Paint Coat on Walls & Trim @ 23rd Floor,4,,,23
+300,Punchlist  @ 23rd Floor,5,,,23
+10,Layout & Top Track @ 24th Floor,6,15-Feb-16,22-Feb-16,24
+20,Rough Duct Work @ 24th Floor,5,19-Feb-16,23-Feb-16,24
+30,Rough Mechanical Piping @ 24th Floor,5,19-Feb-16,23-Feb-16,24
+40,Rough Plumbing @ 24th Floor,5,19-Feb-16,23-Feb-16,24
+50,Rough Sprinkler @ 24th Floor,5,19-Feb-16,23-Feb-16,24
+60,Rough Electrical @ 24th Floor,5,19-Feb-16,23-Feb-16,24
+70,Frame Walls & Ceilings @ 24th Floor,5,7-Mar-16,18-Mar-16,24
+80,Install Plumbing Frames & Crotons @ 24th Floor,5,21-Mar-16,25-Mar-16,24
+90,Pull Wire @ 24th Floor,15,28-Mar-16,13-Apr-16,24
+100,Firestopping & Inspections @ 24th Floor,5,14-Apr-16,18-Apr-16,24
+110,Sheetrock & Tape Walls & Celings @ 24th Floor,15,,,24
+120,Prime Paint @ 24th Floor,4,,,24
+130,Install Mechanical Finishes @ 24th Floor,2,,,24
+140,Install Sprinkler Heads @ 24th Floor,4,,,24
+150,Install Plumbing Finishes @ 24th Floor,1,,,24
+160,Install Electrical Finishes @ 24th Floor,4,,,24
+170,Install Lighting @ 24th Floor,4,,,24
+180,"Install Vanity, Sink & Shower Enclosure @ 24th Floor",6,,,24
+190,Tile Bathroom Floors & Walls @ 24th Floor,12,,,24
+200,Install Kitchen Cabinets @ 24th Floor,8,,,24
+210,Install Kitchen Counters  @ 24th Floor,5,,,24
+220,Install Kitchen Sink @ 24th Floor,3,,,24
+230,Install Flooring & Carpet @ 24th Floor,6,,,24
+240,Install Kitchen Appliances @ 24th Floor,5,,,24
+250,Install Architectural Finishes & Trim  @ 24th Floor,10,,,24
+260,Install Doors @ 24th Floor,5,,,24
+270,Install Corridor Carpet @ 24th Floor,3,,,24
+280,Perform Plumbing & Sprinkler Finish Inspection @ 24th Floor,1,,,24
+290,Final Paint Coat on Walls & Trim @ 24th Floor,4,,,24
+300,Punchlist  @ 24th Floor,5,,,24
+10,Layout & Top Track @ 25th Floor,6,7-Mar-16,14-Mar-16,25
+20,Rough Duct Work @ 25th Floor,5,11-Mar-16,15-Mar-16,25
+30,Rough Mechanical Piping @ 25th Floor,5,42440,42444,25
+40,Rough Plumbing @ 25th Floor,5,11-Mar-16,15-Mar-16,25
+50,Rough Sprinkler @ 25th Floor,5,11-Mar-16,15-Mar-16,25
+60,Rough Electrical @ 25th Floor,5,11-Mar-16,15-Mar-16,25
+70,Frame Walls & Ceilings @ 25th Floor,5,28-Mar-16,8-Apr-16,25
+80,Install Plumbing Frames & Crotons @ 25th Floor,5,11-Apr-16,15-Apr-16,25
+90,Pull Wire @ 25th Floor,15,18-Apr-16,4-May-16,25
+100,Firestopping & Inspections @ 25th Floor,5,5-May-16,9-May-16,25
+110,Sheetrock & Tape Walls & Celings @ 25th Floor,15,,,25
+120,Prime Paint @ 25th Floor,4,,,25
+130,Install Mechanical Finishes @ 25th Floor,2,,,25
+140,Install Sprinkler Heads @ 25th Floor,4,,,25
+150,Install Plumbing Finishes @ 25th Floor,1,,,25
+160,Install Electrical Finishes @ 25th Floor,4,,,25
+170,Install Lighting @ 25th Floor,4,,,25
+180,"Install Vanity, Sink & Shower Enclosure @ 25th Floor",6,,,25
+190,Tile Bathroom Floors & Walls @ 25th Floor,12,,,25
+200,Install Kitchen Cabinets @ 25th Floor,8,,,25
+210,Install Kitchen Counters  @ 25th Floor,5,,,25
+220,Install Kitchen Sink @ 25th Floor,3,,,25
+230,Install Flooring & Carpet @ 25th Floor,6,,,25
+240,Install Kitchen Appliances @ 25th Floor,5,,,25
+250,Install Architectural Finishes & Trim  @ 25th Floor,10,,,25
+260,Install Doors @ 25th Floor,5,,,25
+270,Install Corridor Carpet @ 25th Floor,3,,,25
+280,Perform Plumbing & Sprinkler Finish Inspection @ 25th Floor,1,,,25
+290,Final Paint Coat on Walls & Trim @ 25th Floor,4,,,25
+300,Punchlist  @ 25th Floor,5,,,25
+10,Layout & Top Track @ 26th Floor,6,28-Mar-16,4-Apr-16,26
+20,Rough Duct Work @ 26th Floor,5,1-Apr-16,5-Apr-16,26
+30,Rough Mechanical Piping @ 26th Floor,5,1-Apr-16,5-Apr-16,26
+40,Rough Plumbing @ 26th Floor,5,1-Apr-16,5-Apr-16,26
+50,Rough Sprinkler @ 26th Floor,5,1-Apr-16,5-Apr-16,26
+60,Rough Electrical @ 26th Floor,5,1-Apr-16,5-Apr-16,26
+70,Frame Walls & Ceilings @ 26th Floor,5,18-Apr-16,29-Apr-16,26
+80,Install Plumbing Frames & Crotons @ 26th Floor,5,2-May-16,6-May-16,26
+90,Pull Wire @ 26th Floor,15,9-May-16,25-May-16,26
+100,Firestopping & Inspections @ 26th Floor,5,26-May-16,31-May-16,26
+110,Sheetrock & Tape Walls & Celings @ 26th Floor,15,,,26
+120,Prime Paint @ 26th Floor,4,,,26
+130,Install Mechanical Finishes @ 26th Floor,2,,,26
+140,Install Sprinkler Heads @ 26th Floor,4,,,26
+150,Install Plumbing Finishes @ 26th Floor,1,,,26
+160,Install Electrical Finishes @ 26th Floor,4,,,26
+170,Install Lighting @ 26th Floor,4,,,26
+180,"Install Vanity, Sink & Shower Enclosure @ 26th Floor",6,,,26
+190,Tile Bathroom Floors & Walls @ 26th Floor,12,,,26
+200,Install Kitchen Cabinets @ 26th Floor,8,,,26
+210,Install Kitchen Counters  @ 26th Floor,5,,,26
+220,Install Kitchen Sink @ 26th Floor,3,,,26
+230,Install Flooring & Carpet @ 26th Floor,6,,,26
+240,Install Kitchen Appliances @ 26th Floor,5,,,26
+250,Install Architectural Finishes & Trim  @ 26th Floor,10,,,26
+260,Install Doors @ 26th Floor,5,,,26
+270,Install Corridor Carpet @ 26th Floor,3,,,26
+280,Perform Plumbing & Sprinkler Finish Inspection @ 26th Floor,1,,,26
+290,Final Paint Coat on Walls & Trim @ 26th Floor,4,,,26
+300,Punchlist  @ 26th Floor,5,,,26
+10,Layout & Top Track @ 27th Floor,6,18-Apr-16,25-Apr-16,27
+20,Rough Duct Work @ 27th Floor,5,22-Apr-16,26-Apr-16,27
+30,Rough Mechanical Piping @ 27th Floor,5,22-Apr-16,26-Apr-16,27
+40,Rough Plumbing @ 27th Floor,5,22-Apr-16,26-Apr-16,27
+50,Rough Sprinkler @ 27th Floor,5,22-Apr-16,26-Apr-16,27
+60,Rough Electrical @ 27th Floor,5,22-Apr-16,26-Apr-16,27
+70,Frame Walls & Ceilings @ 27th Floor,5,9-May-16,20-May-16,27
+80,Install Plumbing Frames & Crotons @ 27th Floor,5,23-May-16,27-May-16,27
+90,Pull Wire @ 27th Floor,15,31-May-16,16-Jun-16,27
+100,Firestopping & Inspections @ 27th Floor,5,17-Jun-16,21-Jun-16,27
+110,Sheetrock & Tape Walls & Celings @ 27th Floor,15,,,27
+120,Prime Paint @ 27th Floor,4,,,27
+130,Install Mechanical Finishes @ 27th Floor,2,,,27
+140,Install Sprinkler Heads @ 27th Floor,4,,,27
+150,Install Plumbing Finishes @ 27th Floor,1,,,27
+160,Install Electrical Finishes @ 27th Floor,4,,,27
+170,Install Lighting @ 27th Floor,4,,,27
+180,"Install Vanity, Sink & Shower Enclosure @ 27th Floor",6,,,27
+190,Tile Bathroom Floors & Walls @ 27th Floor,12,,,27
+200,Install Kitchen Cabinets @ 27th Floor,8,,,27
+210,Install Kitchen Counters  @ 27th Floor,5,,,27
+220,Install Kitchen Sink @ 27th Floor,3,,,27
+230,Install Flooring & Carpet @ 27th Floor,6,,,27
+240,Install Kitchen Appliances @ 27th Floor,5,,,27
+250,Install Architectural Finishes & Trim  @ 27th Floor,10,,,27
+260,Install Doors @ 27th Floor,5,,,27
+270,Install Corridor Carpet @ 27th Floor,3,,,27
+280,Perform Plumbing & Sprinkler Finish Inspection @ 27th Floor,1,,,27
+290,Final Paint Coat on Walls & Trim @ 27th Floor,4,,,27
+300,Punchlist  @ 27th Floor,5,,,27
+10,Layout & Top Track @ 30th Floor,6,,,30
+20,Rough Duct Work @ 30th Floor,5,,,30
+30,Rough Mechanical Piping @ 30th Floor,5,,,30
+40,Rough Plumbing @ 30th Floor,5,,,30
+50,Rough Sprinkler @ 30th Floor,5,,,30
+60,Rough Electrical @ 30th Floor,5,,,30
+70,Frame Walls & Ceilings @ 30th Floor,5,,,30
+80,Install Plumbing Frames & Crotons @ 30th Floor,5,,,30
+90,Pull Wire @ 30th Floor,15,,,30
+100,Firestopping & Inspections @ 30th Floor,5,,,30
+110,Sheetrock & Tape Walls & Celings @ 30th Floor,15,,,30
+120,Prime Paint @ 30th Floor,4,,,30
+130,Install Mechanical Finishes @ 30th Floor,2,,,30
+140,Install Sprinkler Heads @ 30th Floor,4,,,30
+150,Install Plumbing Finishes @ 30th Floor,1,,,30
+160,Install Electrical Finishes @ 30th Floor,4,,,30
+170,Install Lighting @ 30th Floor,4,,,30
+180,"Install Vanity, Sink & Shower Enclosure @ 30th Floor",6,,,30
+190,Tile Bathroom Floors & Walls @ 30th Floor,12,,,30
+200,Install Kitchen Cabinets @ 30th Floor,8,,,30
+210,Install Kitchen Counters  @ 30th Floor,5,,,30
+220,Install Kitchen Sink @ 30th Floor,3,,,30
+230,Install Flooring & Carpet @ 30th Floor,6,,,30
+240,Install Kitchen Appliances @ 30th Floor,5,,,30
+250,Install Architectural Finishes & Trim  @ 30th Floor,10,,,30
+260,Install Doors @ 30th Floor,5,,,30
+270,Install Corridor Carpet @ 30th Floor,3,,,30
+280,Perform Plumbing & Sprinkler Finish Inspection @ 30th Floor,1,,,30
+290,Final Paint Coat on Walls & Trim @ 30th Floor,4,,,30
+300,Punchlist  @ 30th Floor,5,,,30
+10,Layout & Top Track @ 31st Floor,6,,,31
+20,Rough Duct Work @ 31st Floor,5,,,31
+30,Rough Mechanical Piping @ 31st Floor,5,,,31
+40,Rough Plumbing @ 31st Floor,5,,,31
+50,Rough Sprinkler @ 31st Floor,5,,,31
+60,Rough Electrical @ 31st Floor,5,,,31
+70,Frame Walls & Ceilings @ 31st Floor,5,,,31
+80,Install Plumbing Frames & Crotons @ 31st Floor,5,,,31
+90,Pull Wire @ 31st Floor,15,,,31
+100,Firestopping & Inspections @ 31st Floor,5,,,31
+110,Sheetrock & Tape Walls & Celings @ 31st Floor,15,,,31
+120,Prime Paint @ 31st Floor,4,,,31
+130,Install Mechanical Finishes @ 31st Floor,2,,,31
+140,Install Sprinkler Heads @ 31st Floor,4,,,31
+150,Install Plumbing Finishes @ 31st Floor,1,,,31
+160,Install Electrical Finishes @ 31st Floor,4,,,31
+170,Install Lighting @ 31st Floor,4,,,31
+180,"Install Vanity, Sink & Shower Enclosure @ 31st Floor",6,,,31
+190,Tile Bathroom Floors & Walls @ 31st Floor,12,,,31
+200,Install Kitchen Cabinets @ 31st Floor,8,,,31
+210,Install Kitchen Counters  @ 31st Floor,5,,,31
+220,Install Kitchen Sink @ 31st Floor,3,,,31
+230,Install Flooring & Carpet @ 31st Floor,6,,,31
+240,Install Kitchen Appliances @ 31st Floor,5,,,31
+250,Install Architectural Finishes & Trim  @ 31st Floor,10,,,31
+260,Install Doors @ 31st Floor,5,,,31
+270,Install Corridor Carpet @ 31st Floor,3,,,31
+280,Perform Plumbing & Sprinkler Finish Inspection @ 31st Floor,1,,,31
+290,Final Paint Coat on Walls & Trim @ 31st Floor,4,,,31
+300,Punchlist  @ 31st Floor,5,,,31
+10,Layout & Top Track @ 32nd Floor,6,,,32
+20,Rough Duct Work @ 32nd Floor,5,,,32
+30,Rough Mechanical Piping @ 32nd Floor,5,,,32
+40,Rough Plumbing @ 32nd Floor,5,,,32
+50,Rough Sprinkler @ 32nd Floor,5,,,32
+60,Rough Electrical @ 32nd Floor,5,,,32
+70,Frame Walls & Ceilings @ 32nd Floor,5,,,32
+80,Install Plumbing Frames & Crotons @ 32nd Floor,5,,,32
+90,Pull Wire @ 32nd Floor,15,,,32
+100,Firestopping & Inspections @ 32nd Floor,5,,,32
+110,Sheetrock & Tape Walls & Celings @ 32nd Floor,15,,,32
+120,Prime Paint @ 32nd Floor,4,,,32
+130,Install Mechanical Finishes @ 32nd Floor,2,,,32
+140,Install Sprinkler Heads @ 32nd Floor,4,,,32
+150,Install Plumbing Finishes @ 32nd Floor,1,,,32
+160,Install Electrical Finishes @ 32nd Floor,4,,,32
+170,Install Lighting @ 32nd Floor,4,,,32
+180,"Install Vanity, Sink & Shower Enclosure @ 32nd Floor",6,,,32
+190,Tile Bathroom Floors & Walls @ 32nd Floor,12,,,32
+200,Install Kitchen Cabinets @ 32nd Floor,8,,,32
+210,Install Kitchen Counters  @ 32nd Floor,5,,,32
+220,Install Kitchen Sink @ 32nd Floor,3,,,32
+230,Install Flooring & Carpet @ 32nd Floor,6,,,32
+240,Install Kitchen Appliances @ 32nd Floor,5,,,32
+250,Install Architectural Finishes & Trim  @ 32nd Floor,10,,,32
+260,Install Doors @ 32nd Floor,5,,,32
+270,Install Corridor Carpet @ 32nd Floor,3,,,32
+280,Perform Plumbing & Sprinkler Finish Inspection @ 32nd Floor,1,,,32
+290,Final Paint Coat on Walls & Trim @ 32nd Floor,4,,,32
+300,Punchlist  @ 32nd Floor,5,,,32
+10,Layout & Top Track @ 33rd Floor,6,,,33
+20,Rough Duct Work @ 33rd Floor,5,,,33
+30,Rough Mechanical Piping @ 33rd Floor,5,,,33
+40,Rough Plumbing @ 33rd Floor,5,,,33
+50,Rough Sprinkler @ 33rd Floor,5,,,33
+60,Rough Electrical @ 33rd Floor,5,,,33
+70,Frame Walls & Ceilings @ 33rd Floor,5,,,33
+80,Install Plumbing Frames & Crotons @ 33rd Floor,5,,,33
+90,Pull Wire @ 33rd Floor,15,,,33
+100,Firestopping & Inspections @ 33rd Floor,5,,,33
+110,Sheetrock & Tape Walls & Celings @ 33rd Floor,15,,,33
+120,Prime Paint @ 33rd Floor,4,,,33
+130,Install Mechanical Finishes @ 33rd Floor,2,,,33
+140,Install Sprinkler Heads @ 33rd Floor,4,,,33
+150,Install Plumbing Finishes @ 33rd Floor,1,,,33
+160,Install Electrical Finishes @ 33rd Floor,4,,,33
+170,Install Lighting @ 33rd Floor,4,,,33
+180,"Install Vanity, Sink & Shower Enclosure @ 33rd Floor",6,,,33
+190,Tile Bathroom Floors & Walls @ 33rd Floor,12,,,33
+200,Install Kitchen Cabinets @ 33rd Floor,8,,,33
+210,Install Kitchen Counters  @ 33rd Floor,5,,,33
+220,Install Kitchen Sink @ 33rd Floor,3,,,33
+230,Install Flooring & Carpet @ 33rd Floor,6,,,33
+240,Install Kitchen Appliances @ 33rd Floor,5,,,33
+250,Install Architectural Finishes & Trim  @ 33rd Floor,10,,,33
+260,Install Doors @ 33rd Floor,5,,,33
+270,Install Corridor Carpet @ 33rd Floor,3,,,33
+280,Perform Plumbing & Sprinkler Finish Inspection @ 33rd Floor,1,,,33
+290,Final Paint Coat on Walls & Trim @ 33rd Floor,4,,,33
+300,Punchlist  @ 33rd Floor,5,,,33
+10,Layout & Top Track @ 34th Floor,6,,,34
+20,Rough Duct Work @ 34th Floor,5,,,34
+30,Rough Mechanical Piping @ 34th Floor,5,,,34
+40,Rough Plumbing @ 34th Floor,5,,,34
+50,Rough Sprinkler @ 34th Floor,5,,,34
+60,Rough Electrical @ 34th Floor,5,,,34
+70,Frame Walls & Ceilings @ 34th Floor,5,,,34
+80,Install Plumbing Frames & Crotons @ 34th Floor,5,,,34
+90,Pull Wire @ 34th Floor,15,,,34
+100,Firestopping & Inspections @ 34th Floor,5,,,34
+110,Sheetrock & Tape Walls & Celings @ 34th Floor,15,,,34
+120,Prime Paint @ 34th Floor,4,,,34
+130,Install Mechanical Finishes @ 34th Floor,2,,,34
+140,Install Sprinkler Heads @ 34th Floor,4,,,34
+150,Install Plumbing Finishes @ 34th Floor,1,,,34
+160,Install Electrical Finishes @ 34th Floor,4,,,34
+170,Install Lighting @ 34th Floor,4,,,34
+180,"Install Vanity, Sink & Shower Enclosure @ 34th Floor",6,,,34
+190,Tile Bathroom Floors & Walls @ 34th Floor,12,,,34
+200,Install Kitchen Cabinets @ 34th Floor,8,,,34
+210,Install Kitchen Counters  @ 34th Floor,5,,,34
+220,Install Kitchen Sink @ 34th Floor,3,,,34
+230,Install Flooring & Carpet @ 34th Floor,6,,,34
+240,Install Kitchen Appliances @ 34th Floor,5,,,34
+250,Install Architectural Finishes & Trim  @ 34th Floor,10,,,34
+260,Install Doors @ 34th Floor,5,,,34
+270,Install Corridor Carpet @ 34th Floor,3,,,34
+280,Perform Plumbing & Sprinkler Finish Inspection @ 34th Floor,1,,,34
+290,Final Paint Coat on Walls & Trim @ 34th Floor,4,,,34
+300,Punchlist  @ 34th Floor,5,,,34
+10,Layout & Top Track @ 35th Floor,6,,,35
+20,Rough Duct Work @ 35th Floor,5,,,35
+30,Rough Mechanical Piping @ 35th Floor,5,,,35
+40,Rough Plumbing @ 35th Floor,5,,,35
+50,Rough Sprinkler @ 35th Floor,5,,,35
+60,Rough Electrical @ 35th Floor,5,,,35
+70,Frame Walls & Ceilings @ 35th Floor,5,,,35
+80,Install Plumbing Frames & Crotons @ 35th Floor,5,,,35
+90,Pull Wire @ 35th Floor,15,,,35
+100,Firestopping & Inspections @ 35th Floor,5,,,35
+110,Sheetrock & Tape Walls & Celings @ 35th Floor,15,,,35
+120,Prime Paint @ 35th Floor,4,,,35
+130,Install Mechanical Finishes @ 35th Floor,2,,,35
+140,Install Sprinkler Heads @ 35th Floor,4,,,35
+150,Install Plumbing Finishes @ 35th Floor,1,,,35
+160,Install Electrical Finishes @ 35th Floor,4,,,35
+170,Install Lighting @ 35th Floor,4,,,35
+180,"Install Vanity, Sink & Shower Enclosure @ 35th Floor",6,,,35
+190,Tile Bathroom Floors & Walls @ 35th Floor,12,,,35
+200,Install Kitchen Cabinets @ 35th Floor,8,,,35
+210,Install Kitchen Counters  @ 35th Floor,5,,,35
+220,Install Kitchen Sink @ 35th Floor,3,,,35
+230,Install Flooring & Carpet @ 35th Floor,6,,,35
+240,Install Kitchen Appliances @ 35th Floor,5,,,35
+250,Install Architectural Finishes & Trim  @ 35th Floor,10,,,35
+260,Install Doors @ 35th Floor,5,,,35
+270,Install Corridor Carpet @ 35th Floor,3,,,35
+280,Perform Plumbing & Sprinkler Finish Inspection @ 35th Floor,1,,,35
+290,Final Paint Coat on Walls & Trim @ 35th Floor,4,,,35
+300,Punchlist  @ 35th Floor,5,,,35
+10,Layout & Top Track @ 36th Floor,6,,,36
+20,Rough Duct Work @ 36th Floor,5,,,36
+30,Rough Mechanical Piping @ 36th Floor,5,,,36
+40,Rough Plumbing @ 36th Floor,5,,,36
+50,Rough Sprinkler @ 36th Floor,5,,,36
+60,Rough Electrical @ 36th Floor,5,,,36
+70,Frame Walls & Ceilings @ 36th Floor,5,,,36
+80,Install Plumbing Frames & Crotons @ 36th Floor,5,,,36
+90,Pull Wire @ 36th Floor,15,,,36
+100,Firestopping & Inspections @ 36th Floor,5,,,36
+110,Sheetrock & Tape Walls & Celings @ 36th Floor,15,,,36
+120,Prime Paint @ 36th Floor,4,,,36
+130,Install Mechanical Finishes @ 36th Floor,2,,,36
+140,Install Sprinkler Heads @ 36th Floor,4,,,36
+150,Install Plumbing Finishes @ 36th Floor,1,,,36
+160,Install Electrical Finishes @ 36th Floor,4,,,36
+170,Install Lighting @ 36th Floor,4,,,36
+180,"Install Vanity, Sink & Shower Enclosure @ 36th Floor",6,,,36
+190,Tile Bathroom Floors & Walls @ 36th Floor,12,,,36
+200,Install Kitchen Cabinets @ 36th Floor,8,,,36
+210,Install Kitchen Counters  @ 36th Floor,5,,,36
+220,Install Kitchen Sink @ 36th Floor,3,,,36
+230,Install Flooring & Carpet @ 36th Floor,6,,,36
+240,Install Kitchen Appliances @ 36th Floor,5,,,36
+250,Install Architectural Finishes & Trim  @ 36th Floor,10,,,36
+260,Install Doors @ 36th Floor,5,,,36
+270,Install Corridor Carpet @ 36th Floor,3,,,36
+280,Perform Plumbing & Sprinkler Finish Inspection @ 36th Floor,1,,,36
+290,Final Paint Coat on Walls & Trim @ 36th Floor,4,,,36
+300,Punchlist  @ 36th Floor,5,,,36
+10,Layout & Top Track @ 37th Floor,6,,,37
+20,Rough Duct Work @ 37th Floor,5,,,37
+30,Rough Mechanical Piping @ 37th Floor,5,,,37
+40,Rough Plumbing @ 37th Floor,5,,,37
+50,Rough Sprinkler @ 37th Floor,5,,,37
+60,Rough Electrical @ 37th Floor,5,,,37
+70,Frame Walls & Ceilings @ 37th Floor,5,,,37
+80,Install Plumbing Frames & Crotons @ 37th Floor,5,,,37
+90,Pull Wire @ 37th Floor,15,,,37
+100,Firestopping & Inspections @ 37th Floor,5,,,37
+110,Sheetrock & Tape Walls & Celings @ 37th Floor,15,,,37
+120,Prime Paint @ 37th Floor,4,,,37
+130,Install Mechanical Finishes @ 37th Floor,2,,,37
+140,Install Sprinkler Heads @ 37th Floor,4,,,37
+150,Install Plumbing Finishes @ 37th Floor,1,,,37
+160,Install Electrical Finishes @ 37th Floor,4,,,37
+170,Install Lighting @ 37th Floor,4,,,37
+180,"Install Vanity, Sink & Shower Enclosure @ 37th Floor",6,,,37
+190,Tile Bathroom Floors & Walls @ 37th Floor,12,,,37
+200,Install Kitchen Cabinets @ 37th Floor,8,,,37
+210,Install Kitchen Counters  @ 37th Floor,5,,,37
+220,Install Kitchen Sink @ 37th Floor,3,,,37
+230,Install Flooring & Carpet @ 37th Floor,6,,,37
+240,Install Kitchen Appliances @ 37th Floor,5,,,37
+250,Install Architectural Finishes & Trim  @ 37th Floor,10,,,37
+260,Install Doors @ 37th Floor,5,,,37
+270,Install Corridor Carpet @ 37th Floor,3,,,37
+280,Perform Plumbing & Sprinkler Finish Inspection @ 37th Floor,1,,,37
+290,Final Paint Coat on Walls & Trim @ 37th Floor,4,,,37
+300,Punchlist  @ 37th Floor,5,,,37
+10,Layout & Top Track @ 38th Floor,6,,,38
+20,Rough Duct Work @ 38th Floor,5,,,38
+30,Rough Mechanical Piping @ 38th Floor,5,,,38
+40,Rough Plumbing @ 38th Floor,5,,,38
+50,Rough Sprinkler @ 38th Floor,5,,,38
+60,Rough Electrical @ 38th Floor,5,,,38
+70,Frame Walls & Ceilings @ 38th Floor,5,,,38
+80,Install Plumbing Frames & Crotons @ 38th Floor,5,,,38
+90,Pull Wire @ 38th Floor,15,,,38
+100,Firestopping & Inspections @ 38th Floor,5,,,38
+110,Sheetrock & Tape Walls & Celings @ 38th Floor,15,,,38
+120,Prime Paint @ 38th Floor,4,,,38
+130,Install Mechanical Finishes @ 38th Floor,2,,,38
+140,Install Sprinkler Heads @ 38th Floor,4,,,38
+150,Install Plumbing Finishes @ 38th Floor,1,,,38
+160,Install Electrical Finishes @ 38th Floor,4,,,38
+170,Install Lighting @ 38th Floor,4,,,38
+180,"Install Vanity, Sink & Shower Enclosure @ 38th Floor",6,,,38
+190,Tile Bathroom Floors & Walls @ 38th Floor,12,,,38
+200,Install Kitchen Cabinets @ 38th Floor,8,,,38
+210,Install Kitchen Counters  @ 38th Floor,5,,,38
+220,Install Kitchen Sink @ 38th Floor,3,,,38
+230,Install Flooring & Carpet @ 38th Floor,6,,,38
+240,Install Kitchen Appliances @ 38th Floor,5,,,38
+250,Install Architectural Finishes & Trim  @ 38th Floor,10,,,38
+260,Install Doors @ 38th Floor,5,,,38
+270,Install Corridor Carpet @ 38th Floor,3,,,38
+280,Perform Plumbing & Sprinkler Finish Inspection @ 38th Floor,1,,,38
+290,Final Paint Coat on Walls & Trim @ 38th Floor,4,,,38
+300,Punchlist  @ 38th Floor,5,,,38
+10,Layout & Top Track @ 39th Floor,6,,,39
+20,Rough Duct Work @ 39th Floor,5,,,39
+30,Rough Mechanical Piping @ 39th Floor,5,,,39
+40,Rough Plumbing @ 39th Floor,5,,,39
+50,Rough Sprinkler @ 39th Floor,5,,,39
+60,Rough Electrical @ 39th Floor,5,,,39
+70,Frame Walls & Ceilings @ 39th Floor,5,,,39
+80,Install Plumbing Frames & Crotons @ 39th Floor,5,,,39
+90,Pull Wire @ 39th Floor,15,,,39
+100,Firestopping & Inspections @ 39th Floor,5,,,39
+110,Sheetrock & Tape Walls & Celings @ 39th Floor,15,,,39
+120,Prime Paint @ 39th Floor,4,,,39
+130,Install Mechanical Finishes @ 39th Floor,2,,,39
+140,Install Sprinkler Heads @ 39th Floor,4,,,39
+150,Install Plumbing Finishes @ 39th Floor,1,,,39
+160,Install Electrical Finishes @ 39th Floor,4,,,39
+170,Install Lighting @ 39th Floor,4,,,39
+180,"Install Vanity, Sink & Shower Enclosure @ 39th Floor",6,,,39
+190,Tile Bathroom Floors & Walls @ 39th Floor,12,,,39
+200,Install Kitchen Cabinets @ 39th Floor,8,,,39
+210,Install Kitchen Counters  @ 39th Floor,5,,,39
+220,Install Kitchen Sink @ 39th Floor,3,,,39
+230,Install Flooring & Carpet @ 39th Floor,6,,,39
+240,Install Kitchen Appliances @ 39th Floor,5,,,39
+250,Install Architectural Finishes & Trim  @ 39th Floor,10,,,39
+260,Install Doors @ 39th Floor,5,,,39
+270,Install Corridor Carpet @ 39th Floor,3,,,39
+280,Perform Plumbing & Sprinkler Finish Inspection @ 39th Floor,1,,,39
+290,Final Paint Coat on Walls & Trim @ 39th Floor,4,,,39
+300,Punchlist  @ 39th Floor,5,,,39
+10,Layout & Top Track @ 40th Floor,6,,,40
+20,Rough Duct Work @ 40th Floor,5,,,40
+30,Rough Mechanical Piping @ 40th Floor,5,,,40
+40,Rough Plumbing @ 40th Floor,5,,,40
+50,Rough Sprinkler @ 40th Floor,5,,,40
+60,Rough Electrical @ 40th Floor,5,,,40
+70,Frame Walls & Ceilings @ 40th Floor,5,,,40
+80,Install Plumbing Frames & Crotons @ 40th Floor,5,,,40
+90,Pull Wire @ 40th Floor,15,,,40
+100,Firestopping & Inspections @ 40th Floor,5,,,40
+110,Sheetrock & Tape Walls & Celings @ 40th Floor,15,,,40
+120,Prime Paint @ 40th Floor,4,,,40
+130,Install Mechanical Finishes @ 40th Floor,2,,,40
+140,Install Sprinkler Heads @ 40th Floor,4,,,40
+150,Install Plumbing Finishes @ 40th Floor,1,,,40
+160,Install Electrical Finishes @ 40th Floor,4,,,40
+170,Install Lighting @ 40th Floor,4,,,40
+180,"Install Vanity, Sink & Shower Enclosure @ 40th Floor",6,,,40
+190,Tile Bathroom Floors & Walls @ 40th Floor,12,,,40
+200,Install Kitchen Cabinets @ 40th Floor,8,,,40
+210,Install Kitchen Counters  @ 40th Floor,5,,,40
+220,Install Kitchen Sink @ 40th Floor,3,,,40
+230,Install Flooring & Carpet @ 40th Floor,6,,,40
+240,Install Kitchen Appliances @ 40th Floor,5,,,40
+250,Install Architectural Finishes & Trim  @ 40th Floor,10,,,40
+260,Install Doors @ 40th Floor,5,,,40
+270,Install Corridor Carpet @ 40th Floor,3,,,40
+280,Perform Plumbing & Sprinkler Finish Inspection @ 40th Floor,1,,,40
+290,Final Paint Coat on Walls & Trim @ 40th Floor,4,,,40
+300,Punchlist  @ 40th Floor,5,,,40
+10,Layout & Top Track @ 41st Floor,6,,,41
+20,Rough Duct Work @ 41st Floor,5,,,41
+30,Rough Mechanical Piping @ 41st Floor,5,,,41
+40,Rough Plumbing @ 41st Floor,5,,,41
+50,Rough Sprinkler @ 41st Floor,5,,,41
+60,Rough Electrical @ 41st Floor,5,,,41
+70,Frame Walls & Ceilings @ 41st Floor,5,,,41
+80,Install Plumbing Frames & Crotons @ 41st Floor,5,,,41
+90,Pull Wire @ 41st Floor,15,,,41
+100,Firestopping & Inspections @ 41st Floor,5,,,41
+110,Sheetrock & Tape Walls & Celings @ 41st Floor,15,,,41
+120,Prime Paint @ 41st Floor,4,,,41
+130,Install Mechanical Finishes @ 41st Floor,2,,,41
+140,Install Sprinkler Heads @ 41st Floor,4,,,41
+150,Install Plumbing Finishes @ 41st Floor,1,,,41
+160,Install Electrical Finishes @ 41st Floor,4,,,41
+170,Install Lighting @ 41st Floor,4,,,41
+180,"Install Vanity, Sink & Shower Enclosure @ 41st Floor",6,,,41
+190,Tile Bathroom Floors & Walls @ 41st Floor,12,,,41
+200,Install Kitchen Cabinets @ 41st Floor,8,,,41
+210,Install Kitchen Counters  @ 41st Floor,5,,,41
+220,Install Kitchen Sink @ 41st Floor,3,,,41
+230,Install Flooring & Carpet @ 41st Floor,6,,,41
+240,Install Kitchen Appliances @ 41st Floor,5,,,41
+250,Install Architectural Finishes & Trim  @ 41st Floor,10,,,41
+260,Install Doors @ 41st Floor,5,,,41
+270,Install Corridor Carpet @ 41st Floor,3,,,41
+280,Perform Plumbing & Sprinkler Finish Inspection @ 41st Floor,1,,,41
+290,Final Paint Coat on Walls & Trim @ 41st Floor,4,,,41
+300,Punchlist  @ 41st Floor,5,,,41
+10,Layout & Top Track @ 42nd Floor,6,,,42
+20,Rough Duct Work @ 42nd Floor,5,,,42
+30,Rough Mechanical Piping @ 42nd Floor,5,,,42
+40,Rough Plumbing @ 42nd Floor,5,,,42
+50,Rough Sprinkler @ 42nd Floor,5,,,42
+60,Rough Electrical @ 42nd Floor,5,,,42
+70,Frame Walls & Ceilings @ 42nd Floor,5,,,42
+80,Install Plumbing Frames & Crotons @ 42nd Floor,5,,,42
+90,Pull Wire @ 42nd Floor,15,,,42
+100,Firestopping & Inspections @ 42nd Floor,5,,,42
+110,Sheetrock & Tape Walls & Celings @ 42nd Floor,15,,,42
+120,Prime Paint @ 42nd Floor,4,,,42
+130,Install Mechanical Finishes @ 42nd Floor,2,,,42
+140,Install Sprinkler Heads @ 42nd Floor,4,,,42
+150,Install Plumbing Finishes @ 42nd Floor,1,,,42
+160,Install Electrical Finishes @ 42nd Floor,4,,,42
+170,Install Lighting @ 42nd Floor,4,,,42
+180,"Install Vanity, Sink & Shower Enclosure @ 42nd Floor",6,,,42
+190,Tile Bathroom Floors & Walls @ 42nd Floor,12,,,42
+200,Install Kitchen Cabinets @ 42nd Floor,8,,,42
+210,Install Kitchen Counters  @ 42nd Floor,5,,,42
+220,Install Kitchen Sink @ 42nd Floor,3,,,42
+230,Install Flooring & Carpet @ 42nd Floor,6,,,42
+240,Install Kitchen Appliances @ 42nd Floor,5,,,42
+250,Install Architectural Finishes & Trim  @ 42nd Floor,10,,,42
+260,Install Doors @ 42nd Floor,5,,,42
+270,Install Corridor Carpet @ 42nd Floor,3,,,42
+280,Perform Plumbing & Sprinkler Finish Inspection @ 42nd Floor,1,,,42
+290,Final Paint Coat on Walls & Trim @ 42nd Floor,4,,,42
+300,Punchlist  @ 42nd Floor,5,,,42
+10,Layout & Top Track @ 43rd Floor,6,,,43
+20,Rough Duct Work @ 43rd Floor,5,,,43
+30,Rough Mechanical Piping @ 43rd Floor,5,,,43
+40,Rough Plumbing @ 43rd Floor,5,,,43
+50,Rough Sprinkler @ 43rd Floor,5,,,43
+60,Rough Electrical @ 43rd Floor,5,,,43
+70,Frame Walls & Ceilings @ 43rd Floor,5,,,43
+80,Install Plumbing Frames & Crotons @ 43rd Floor,5,,,43
+90,Pull Wire @ 43rd Floor,15,,,43
+100,Firestopping & Inspections @ 43rd Floor,5,,,43
+110,Sheetrock & Tape Walls & Celings @ 43rd Floor,15,,,43
+120,Prime Paint @ 43rd Floor,4,,,43
+130,Install Mechanical Finishes @ 43rd Floor,2,,,43
+140,Install Sprinkler Heads @ 43rd Floor,4,,,43
+150,Install Plumbing Finishes @ 43rd Floor,1,,,43
+160,Install Electrical Finishes @ 43rd Floor,4,,,43
+170,Install Lighting @ 43rd Floor,4,,,43
+180,"Install Vanity, Sink & Shower Enclosure @ 43rd Floor",6,,,43
+190,Tile Bathroom Floors & Walls @ 43rd Floor,12,,,43
+200,Install Kitchen Cabinets @ 43rd Floor,8,,,43
+210,Install Kitchen Counters  @ 43rd Floor,5,,,43
+220,Install Kitchen Sink @ 43rd Floor,3,,,43
+230,Install Flooring & Carpet @ 43rd Floor,6,,,43
+240,Install Kitchen Appliances @ 43rd Floor,5,,,43
+250,Install Architectural Finishes & Trim  @ 43rd Floor,10,,,43
+260,Install Doors @ 43rd Floor,5,,,43
+270,Install Corridor Carpet @ 43rd Floor,3,,,43
+280,Perform Plumbing & Sprinkler Finish Inspection @ 43rd Floor,1,,,43
+290,Final Paint Coat on Walls & Trim @ 43rd Floor,4,,,43
+300,Punchlist  @ 43rd Floor,5,,,43
+10,Layout & Top Track @ 44th Floor,6,,,44
+20,Rough Duct Work @ 44th Floor,5,,,44
+30,Rough Mechanical Piping @ 44th Floor,5,,,44
+40,Rough Plumbing @ 44th Floor,5,,,44
+50,Rough Sprinkler @ 44th Floor,5,,,44
+60,Rough Electrical @ 44th Floor,5,,,44
+70,Frame Walls & Ceilings @ 44th Floor,5,,,44
+80,Install Plumbing Frames & Crotons @ 44th Floor,5,,,44
+90,Pull Wire @ 44th Floor,15,,,44
+100,Firestopping & Inspections @ 44th Floor,5,,,44
+110,Sheetrock & Tape Walls & Celings @ 44th Floor,15,,,44
+120,Prime Paint @ 44th Floor,4,,,44
+130,Install Mechanical Finishes @ 44th Floor,2,,,44
+140,Install Sprinkler Heads @ 44th Floor,4,,,44
+150,Install Plumbing Finishes @ 44th Floor,1,,,44
+160,Install Electrical Finishes @ 44th Floor,4,,,44
+170,Install Lighting @ 44th Floor,4,,,44
+180,"Install Vanity, Sink & Shower Enclosure @ 44th Floor",6,,,44
+190,Tile Bathroom Floors & Walls @ 44th Floor,12,,,44
+200,Install Kitchen Cabinets @ 44th Floor,8,,,44
+210,Install Kitchen Counters  @ 44th Floor,5,,,44
+220,Install Kitchen Sink @ 44th Floor,3,,,44
+230,Install Flooring & Carpet @ 44th Floor,6,,,44
+240,Install Kitchen Appliances @ 44th Floor,5,,,44
+250,Install Architectural Finishes & Trim  @ 44th Floor,10,,,44
+260,Install Doors @ 44th Floor,5,,,44
+270,Install Corridor Carpet @ 44th Floor,3,,,44
+280,Perform Plumbing & Sprinkler Finish Inspection @ 44th Floor,1,,,44
+290,Final Paint Coat on Walls & Trim @ 44th Floor,4,,,44
+300,Punchlist  @ 44th Floor,5,,,44

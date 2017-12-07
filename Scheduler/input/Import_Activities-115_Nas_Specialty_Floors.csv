@@ -1,0 +1,145 @@
+ID,Name,Duration,AS,AF,FloorID
+10,Layout & Top Track @ 11th Floor Amenities,6,2-May-16,6-May-16,11M
+17,Frame & Core Board Risers/Stairs/Elevators @ 11th Floor Amenities,10,11-May-16,20-May-16,11M
+20,Rough Duct Work @ 11th Floor Amenities,10,6-May-16,10-May-16,11M
+30,Rough Mechanical Piping @ 11th Floor Amenities,10,6-May-16,10-May-16,11M
+40,Rough Plumbing @ 11th Floor Amenities,10,6-May-16,10-May-16,11M
+50,Rough Sprinkler @ 11th Floor Amenities,10,6-May-16,10-May-16,11M
+60,Rough Electrical @ 11th Floor Amenities,10,6-May-16,10-May-16,11M
+70,Frame Walls & Ceilings @ 11th Floor Amenities,10,23-May-16,6-Jun-16,11M
+990,Storefront Installation @ 11th Floor Amenities,10,25-Jul-16,31-Jul-16,11M
+80,Install Plumbing Frames & Crotons @ 11th Floor Amenities,5,7-Jun-16,,11M
+90,Pull Wire @ 11th Floor Amenities,15,9-Jun-16,,11M
+100,Firestopping & Inspections @ 11th Floor Amenities,5,,,11M
+110,Sheetrock & Tape Walls & Celings @ 11th Floor Amenities,15,,,11M
+120,Prime Paint @ 11th Floor Amenities,5,,,11M
+130,Install Mechanical Finishes @ 11th Floor Amenities,2,,,11M
+140,Install Sprinkler Heads @ 11th Floor Amenities,4,,,11M
+150,Install Plumbing Finishes @ 11th Floor Amenities,1,,,11M
+160,Install Electrical Finishes @ 11th Floor Amenities,4,,,11M
+170,Install Lighting @ 11th Floor Amenities,4,,,11M
+194,Install Bathroom Fixtures & Accessories @ 11th Floor Amenities,5,,,11M
+190,Tile Bathroom Floors & Walls @ 11th Floor Amenities,12,,,11M
+200,Install Kitchen Cabinets @ 11th Floor Amenities,8,,,11M
+210,Install Kitchen Counters @ 11th Floor Amenities,5,,,11M
+220,Install Kitchen Sink @ 11th Floor Amenities,3,,,11M
+230,Install Flooring & Carpet @ 11th Floor Amenities,6,,,11M
+240,Install Kitchen Appliances @ 11th Floor Amenities,5,,,11M
+250,Install Architectural Finishes & Trim @ 11th Floor Amenities,10,,,11M
+260,Install Doors @ 11th Floor Amenities,5,,,11M
+280,Perform Plumbing & Sprinkler Finish Inspection @ 11th Floor Amenities,1,,,11M
+290,Final Paint Coat on Walls & Trim @ 11th Floor Amenities,4,,,11M
+300,Punchlist @ 11th Floor Amenities,5,,,11M
+10,Layout & Top Track @ 1st floor (Excluding Lobby Finishes),6,9-Sep-14,18-Sep-14,1L
+12,Install CMU Walls @ 1st floor (Excluding Lobby Finishes),15,,,1L
+15,Install Overhead Door @ 1st floor (Excluding Lobby Finishes),5,,,1L
+17,Frame & Core Board Risers/Stairs/Elevators @ 1st floor (Excluding Lobby Finishes),10,19-Sep-14,6-Oct-14,1L
+20,Rough Duct Work @ 1st floor (Excluding Lobby Finishes),10,22-Sep-14,24-Sep-14,1L
+30,Rough Mechanical Piping @ 1st floor (Excluding Lobby Finishes),10,22-Sep-14,24-Sep-14,1L
+40,Rough Plumbing @ 1st floor (Excluding Lobby Finishes),10,22-Sep-14,24-Sep-14,1L
+50,Rough Sprinkler @ 1st floor (Excluding Lobby Finishes),10,22-Sep-14,24-Sep-14,1L
+60,Rough Electrical @ 1st floor (Excluding Lobby Finishes),10,22-Sep-14,24-Sep-14,1L
+70,Frame Walls & Ceilings @ 1st floor (Excluding Lobby Finishes),10,,,1L
+80,Install Plumbing Frames & Crotons @ 1st floor (Excluding Lobby Finishes),5,,,1L
+90,Pull Wire @ 1st floor (Excluding Lobby Finishes),15,,,1L
+100,Firestopping & Inspections @ 1st floor (Excluding Lobby Finishes),5,,,1L
+110,Sheetrock & Tape Walls & Celings @ 1st floor (Excluding Lobby Finishes),15,,,1L
+120,Prime Paint @ 1st floor (Excluding Lobby Finishes),5,,,1L
+130,Install Mechanical Finishes @ 1st floor (Excluding Lobby Finishes),2,,,1L
+140,Install Sprinkler Heads @ 1st floor (Excluding Lobby Finishes),4,,,1L
+150,Install Plumbing Finishes @ 1st floor (Excluding Lobby Finishes),1,,,1L
+160,Install Electrical Finishes @ 1st floor (Excluding Lobby Finishes),4,,,1L
+170,Install Lighting @ 1st floor (Excluding Lobby Finishes),4,,,1L
+194,Install Bathroom Fixtures & Accessories @ 1st floor (Excluding Lobby Finishes),5,,,1L
+190,Tile Bathroom Floors & Walls @ 1st floor (Excluding Lobby Finishes),12,,,1L
+230,Install Flooring & Carpet @ 1st floor (Excluding Lobby Finishes),6,,,1L
+250,Install Architectural Finishes & Trim @ 1st floor (Excluding Lobby Finishes),10,,,1L
+260,Install Doors @ 1st floor (Excluding Lobby Finishes),5,,,1L
+290,Final Paint Coat on Walls & Trim @ 1st floor (Excluding Lobby Finishes),4,,,1L
+295,Paint Floors @ 1st floor (Excluding Lobby Finishes),3,,,1L
+300,Punchlist @ 1st floor (Excluding Lobby Finishes),5,,,1L
+10,Layout & Top Track @ 3rd Floor,6,14-Jul-14,20-Aug-14,3
+17,Frame & Core Board Risers/Stairs/Elevators @ 3rd Floor,10,21-Aug-14,15-Sep-14,3
+20,Rough Duct Work @ 3rd Floor,10,22-Aug-14,26-Aug-14,3
+30,Rough Mechanical Piping @ 3rd Floor,10,22-Aug-14,26-Aug-14,3
+40,Rough Plumbing @ 3rd Floor,10,22-Aug-14,26-Aug-14,3
+50,Rough Sprinkler @ 3rd Floor,10,22-Aug-14,26-Aug-14,3
+60,Rough Electrical @ 3rd Floor,10,22-Aug-14,26-Aug-14,3
+70,Frame Walls & Ceilings @ 3rd Floor,10,,,3
+80,Install Plumbing Frames & Crotons @ 3rd Floor,5,,,3
+90,Pull Wire @ 3rd Floor,15,,,3
+100,Firestopping & Inspections @ 3rd Floor,5,,,3
+110,Sheetrock & Tape Walls & Celings @ 3rd Floor,15,,,3
+120,Prime Paint @ 3rd Floor,5,,,3
+127,Install Gym Wall Paneling @ 3rd Floor,5,,,3
+130,Install Mechanical Finishes @ 3rd Floor,2,,,3
+140,Install Sprinkler Heads @ 3rd Floor,4,,,3
+150,Install Plumbing Finishes @ 3rd Floor,1,,,3
+160,Install Electrical Finishes @ 3rd Floor,4,,,3
+170,Install Lighting @ 3rd Floor,4,,,3
+194,Install Bathroom Fixtures & Accessories @ 3rd Floor,5,,,3
+197,Install Gym Flooring @ 3rd Floor,10,,,3
+180,"Install Vanity, Sink & Shower Enclosure @ 3rd Floor",6,,,3
+190,Tile Bathroom Floors & Walls @ 3rd Floor,12,,,3
+230,Install Flooring & Carpet @ 3rd Floor,6,,,3
+250,Install Architectural Finishes & Trim @ 3rd Floor,10,,,3
+260,Install Doors @ 3rd Floor,5,,,3
+270,Install Corridor Carpet @ 3rd Floor,3,,,3
+280,Perform Plumbing & Sprinkler Finish Inspection @ 3rd Floor,1,,,3
+290,Final Paint Coat on Walls & Trim @ 3rd Floor,4,,,3
+300,Punchlist @ 3rd Floor,5,,,3
+10,Layout & Top Track @ Cellar,6,2-Sep-14,11-Sep-14,CL
+17,Frame & Core Board Risers/Stairs/Elevators @ Cellar,10,12-Sep-14,29-Sep-14,CL
+20,Rough Duct Work @ Cellar,10,15-Sep-14,17-Sep-14,CL
+30,Rough Mechanical Piping @ Cellar,10,15-Sep-14,17-Sep-14,CL
+40,Rough Plumbing @ Cellar,10,15-Sep-14,17-Sep-14,CL
+50,Rough Sprinkler @ Cellar,10,15-Sep-14,17-Sep-14,CL
+60,Rough Electrical @ Cellar,10,15-Sep-14,17-Sep-14,CL
+70,Frame Walls & Ceilings @ Cellar,10,4-Apr-16,22-Apr-16,CL
+80,Install Plumbing Frames & Crotons @ Cellar,5,25-Apr-16,3-May-16,CL
+90,Pull Wire @ Cellar,15,4-May-16,24-May-16,CL
+100,Firestopping & Inspections @ Cellar,5,25-May-16,15-Jun-16,CL
+110,Sheetrock & Tape Walls & Celings @ Cellar,15,,,CL
+120,Prime Paint @ Cellar,5,,,CL
+130,Install Mechanical Finishes @ Cellar,2,,,CL
+140,Install Sprinkler Heads @ Cellar,4,,,CL
+150,Install Plumbing Finishes @ Cellar,1,,,CL
+160,Install Electrical Finishes @ Cellar,4,,,CL
+170,Install Lighting @ Cellar,4,,,CL
+190,Tile Bathroom Floors & Walls @ Cellar,12,,,CL
+230,Install Flooring & Carpet @ Cellar,6,,,CL
+175,Install Hotel Kitchen Food Service Equipment @ Cellar,20,,,CL
+245,Install Lockers @ Cellar,10,,,CL
+250,Install Architectural Finishes & Trim @ Cellar,10,,,CL
+260,Install Doors @ Cellar,5,,,CL
+270,Install Corridor Carpet @ Cellar,3,,,CL
+280,Perform Plumbing & Sprinkler Finish Inspection @ Cellar,1,,,CL
+290,Final Paint Coat on Walls & Trim @ Cellar,4,,,CL
+300,Punchlist @ Cellar,5,,,CL
+10,Layout & Top Track @ Subcellar,6,7-Aug-14,18-Aug-14,SC
+12,Install CMU Walls @ Subcellar,15,8-Aug-14,14-Oct-14,SC
+17,Frame & Core Board Risers/Stairs/Elevators @ Subcellar,10,3-Jul-14,29-Apr-15,SC
+20,Rough Duct Work @ Subcellar,10,30-Jun-14,2-Jul-14,SC
+30,Rough Mechanical Piping @ Subcellar,10,30-Jun-14,2-Jul-14,SC
+40,Rough Plumbing @ Subcellar,10,30-Jun-14,2-Jul-14,SC
+50,Rough Sprinkler @ Subcellar,10,30-Jun-14,2-Jul-14,SC
+60,Rough Electrical @ Subcellar,10,30-Jun-14,2-Jul-14,SC
+70,Frame Walls & Ceilings @ Subcellar,10,2-Sep-14,20-May-15,SC
+80,Install Plumbing Frames & Crotons @ Subcellar,5,3-Sep-14,11-Sep-14,SC
+90,Pull Wire @ Subcellar,15,12-Sep-14,5-May-15,SC
+100,Firestopping & Inspections @ Subcellar,5,6-May-15,8-Jun-15,SC
+110,Sheetrock & Tape Walls & Celings @ Subcellar,15,11-May-15,22-Jun-15,SC
+120,Prime Paint @ Subcellar,5,30-Jun-15,6-Jul-15,SC
+123,Flash Patch Floor @ Subcellar,5,7-Jul-15,8-Jul-15,SC
+130,Install Mechanical Finishes @ Subcellar,2,3-Jun-15,4-Jun-15,SC
+140,Install Sprinkler Heads @ Subcellar,4,28-May-15,1-Jun-15,SC
+150,Install Plumbing Finishes @ Subcellar,1,2-Jun-15,2-Jun-15,SC
+160,Install Electrical Finishes @ Subcellar,4,6-Aug-15,7-Aug-15,SC
+170,Install Lighting @ Subcellar,4,21-May-15,27-May-15,SC
+230,Install Flooring & Carpet @ Subcellar,6,9-Jul-15,16-Jul-15,SC
+250,Install Architectural Finishes & Trim @ Subcellar,10,17-Jul-15,30-Jul-15,SC
+260,Install Doors @ Subcellar,5,23-Jun-15,29-Jun-15,SC
+270,Install Corridor Carpet @ Subcellar,3,10-Aug-15,10-Aug-15,SC
+280,Perform Plumbing & Sprinkler Finish Inspection @ Subcellar,1,11-Aug-15,11-Aug-15,SC
+290,Final Paint Coat on Walls & Trim @ Subcellar,4,31-Jul-15,5-Aug-15,SC
+300,Punchlist @ Subcellar,5,12-Aug-15,18-Aug-15,SC
