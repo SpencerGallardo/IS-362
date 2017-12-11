@@ -1,0 +1,125 @@
+ID,Name,Duration,AS,AF,FloorID
+290,Final Paint @ Function Room 1,4,,,FR1
+100,Firestopping & Inspections @ Function Room 1,5,28-Apr-16,29-Apr-16,FR1
+17,Frame & Core Board Risers/Stairs/Elevators @ Function Room 1,10,2-May-16,3-May-16,FR1
+70,Frame Walls & Ceilings @ Function Room 1,10,,,FR1
+250,Install Architectural Finishes & Trim  @ Function Room 1,10,,,FR1
+12,Install CMU Walls @ Function Room 1,15,9-May-16,,FR1
+160,Install Electrical Finishes @ Function Room 1,5,,,FR1
+173,Install FA Devices @ Function Room 1,5,,,FR1
+230,Install Flooring @ Function Room 1,6,,,FR1
+170,Install Lighting @ Function Room 1,4,,,FR1
+130,Install Mechanical Finishes @ Function Room 1,2,,,FR1
+257,Install Millwork @ Function Room 1,15,,,FR1
+262,Install Movable Partitions @ Function Room 1,5,,,FR1
+150,Install Plumbing Finishes @ Function Room 1,2,,,FR1
+140,Install Sprinkler Heads @ Function Room 1,4,,,FR1
+10,Layout & Top Track @ Function Room 1,5,4-Apr-16,5-Apr-16,FR1
+280,Perform Plumbing & Sprinkler Finish Inspection @ Function Room 1,1,,,FR1
+120,Prime Paint @ Function Room 1,5,,,FR1
+300,Punchlist  @ Function Room 1,5,6-Apr-16,7-Apr-16,FR1
+20,Rough Duct Work @ Function Room 1,10,6-Apr-16,7-Apr-16,FR1
+60,Rough Electrical/FA/BMS @ Function Room 1,10,7-Apr-16,27-Apr-16,FR1
+30,Rough Mechanical Piping @ Function Room 1,10,6-Apr-16,27-Apr-16,FR1
+40,Rough Plumbing @ Function Room 1,10,6-Apr-16,7-Apr-16,FR1
+290,Final Paint @ Function Room 2,4,,,FR2
+100,Firestopping & Inspections @ Function Room 2,5,4-May-16,5-May-16,FR2
+17,Frame & Core Board Risers/Stairs/Elevators @ Function Room 2,10,,,FR2
+70,Frame Walls & Ceilings @ Function Room 2,10,,,FR2
+250,Install Architectural Finishes & Trim  @ Function Room 2,10,8-Sep-15,10-Sep-15,FR2
+12,Install CMU Walls @ Function Room 2,15,,,FR2
+160,Install Electrical Finishes @ Function Room 2,5,,,FR2
+173,Install FA Devices @ Function Room 2,5,,,FR2
+230,Install Flooring @ Function Room 2,6,,,FR2
+170,Install Lighting @ Function Room 2,4,,,FR2
+130,Install Mechanical Finishes @ Function Room 2,2,,,FR2
+257,Install Millwork @ Function Room 2,15,,,FR2
+262,Install Movable Partitions @ Function Room 2,5,,,FR2
+150,Install Plumbing Finishes @ Function Room 2,2,,,FR2
+140,Install Sprinkler Heads @ Function Room 2,4,,,FR2
+10,Layout & Top Track @ Function Room 2,5,8-Apr-16,8-Apr-16,FR2
+280,Perform Plumbing & Sprinkler Finish Inspection @ Function Room 2,1,14-Sep-15,17-Sep-15,FR2
+120,Prime Paint @ Function Room 2,5,,,FR2
+300,Punchlist  @ Function Room 2,5,1-Oct-15,2-Oct-15,FR2
+20,Rough Duct Work @ Function Room 2,10,8-Apr-16,8-Apr-16,FR2
+60,Rough Electrical/FA/BMS @ Function Room 2,10,2-May-16,2-May-16,FR2
+30,Rough Mechanical Piping @ Function Room 2,10,11-Apr-16,3-May-16,FR2
+40,Rough Plumbing @ Function Room 2,10,21-Apr-16,29-Apr-16,FR2
+290,Final Paint @ Lounge,4,,,LNG
+100,Firestopping & Inspections @ Lounge,5,,,LNG
+123,Flash Patch Floor @ Lounge,5,,,LNG
+17,Frame & Core Board Risers/Stairs/Elevators @ Lounge,10,,,LNG
+70,Frame Walls & Ceilings @ Lounge,10,,,LNG
+253,Install & Protect Wood Flooring @ Lounge,5,,,LNG
+250,Install Architectural Finishes & Trim  @ Lounge,10,,,LNG
+185,Install Ceiling Tile @ Lounge,5,,,LNG
+270,Install Corridor Flooring @ Lounge,5,,,LNG
+260,Install Doors @ Lounge,5,,,LNG
+160,Install Electrical Finishes @ Lounge,5,,,LNG
+173,Install FA Devices @ Lounge,5,,,LNG
+170,Install Lighting @ Lounge,4,,,LNG
+130,Install Mechanical Finishes @ Lounge,2,,,LNG
+150,Install Plumbing Finishes @ Lounge,2,,,LNG
+80,Install Plumbing Frames & Crotons @ Lounge,5,,,LNG
+140,Install Sprinkler Heads @ Lounge,4,,,LNG
+10,Layout & Top Track @ Lounge,5,,,LNG
+280,Perform Plumbing & Sprinkler Finish Inspection @ Lounge,1,,,LNG
+120,Prime Paint @ Lounge,5,,,LNG
+90,Pull Wire @ Lounge,15,,,LNG
+300,Punchlist  @ Lounge,5,,,LNG
+20,Rough Duct Work @ Lounge,10,,,LNG
+50,Rough Sprinkler @ Lounge,10,,,LNG
+257,Set Bar & Built in Furniture @ Lounge,15,,,LNG
+110,Sheetrock & Tape Walls & Celings @ Lounge,15,,,LNG
+177,Tile Bar Surround Floors @ Lounge,5,,,LNG
+290,Final Paint @ Pre-function Space,4,,,PFS
+100,Firestopping & Inspections @ Pre-function Space,5,19-Oct-15,18-Nov-15,PFS
+17,Frame & Core Board Risers/Stairs/Elevators @ Pre-function Space,10,19-Oct-15,,PFS
+70,Frame Walls & Ceilings @ Pre-function Space,10,19-Oct-15,30-Oct-15,PFS
+250,Install Architectural Finishes & Trim  @ Pre-function Space,10,17-Dec-15,18-Dec-15,PFS
+12,Install CMU Walls @ Pre-function Space,15,19-Oct-15,,PFS
+160,Install Electrical Finishes @ Pre-function Space,5,,,PFS
+173,Install FA Devices @ Pre-function Space,5,8-Dec-15,14-Dec-15,PFS
+230,Install Flooring @ Pre-function Space,6,,,PFS
+170,Install Lighting @ Pre-function Space,4,,,PFS
+130,Install Mechanical Finishes @ Pre-function Space,2,,,PFS
+257,Install Millwork @ Pre-function Space,15,,,PFS
+262,Install Movable Partitions @ Pre-function Space,5,15-Dec-15,16-Dec-15,PFS
+150,Install Plumbing Finishes @ Pre-function Space,2,1-Dec-15,7-Dec-15,PFS
+140,Install Sprinkler Heads @ Pre-function Space,4,,,PFS
+10,Layout & Top Track @ Pre-function Space,5,15-Oct-15,,PFS
+280,Perform Plumbing & Sprinkler Finish Inspection @ Pre-function Space,1,21-Dec-15,5-Jan-16,PFS
+120,Prime Paint @ Pre-function Space,5,,,PFS
+300,Punchlist  @ Pre-function Space,5,6-Jan-16,7-Jan-16,PFS
+20,Rough Duct Work @ Pre-function Space,10,19-Oct-15,,PFS
+60,Rough Electrical/FA/BMS @ Pre-function Space,10,10-Nov-15,11-Nov-15,PFS
+30,Rough Mechanical Piping @ Pre-function Space,10,19-Oct-15,31-Dec-15,PFS
+40,Rough Plumbing @ Pre-function Space,10,19-Oct-15,30-Oct-15,PFS
+50,Rough Sprinkler @ Pre-function Space,10,19-Oct-15,,PFS
+290,Final Paint @ Public Restrooms,4,,,PR
+100,Firestopping & Inspections @ Public Restrooms,5,23-Feb-16,1-Jun-17,PR
+123,Flash Patch Floor @ Public Restrooms,5,2-Mar-16,9-Mar-16,PR
+17,Frame & Core Board Risers/Stairs/Elevators @ Public Restrooms,10,5-Feb-16,5-Feb-16,PR
+70,Frame Walls & Ceilings @ Public Restrooms,10,8-Feb-16,23-Mar-16,PR
+250,Install Architectural Finishes & Trim  @ Public Restrooms,10,,,PR
+185,Install Ceiling Tile @ Public Restrooms,5,,,PR
+270,Install Corridor Flooring @ Public Restrooms,5,,,PR
+160,Install Electrical Finishes @ Public Restrooms,5,,,PR
+173,Install FA Devices @ Public Restrooms,5,28-Mar-16,1-Apr-16,PR
+230,Install Flooring @ Public Restrooms,6,,,PR
+170,Install Lighting @ Public Restrooms,4,24-Mar-16,25-Mar-16,PR
+130,Install Mechanical Finishes @ Public Restrooms,2,14-Apr-16,25-May-16,PR
+150,Install Plumbing Finishes @ Public Restrooms,2,8-Apr-16,13-Apr-16,PR
+80,Install Plumbing Frames & Crotons @ Public Restrooms,5,15-Feb-16,16-Feb-16,PR
+140,Install Sprinkler Heads @ Public Restrooms,4,4-Apr-16,7-Apr-16,PR
+10,Layout & Top Track @ Public Restrooms,5,18-Jan-16,20-Jan-16,PR
+280,Perform Plumbing & Sprinkler Finish Inspection @ Public Restrooms,1,,,PR
+120,Prime Paint @ Public Restrooms,5,,,PR
+90,Pull Wire @ Public Restrooms,15,17-Feb-16,22-Feb-16,PR
+300,Punchlist  @ Public Restrooms,5,,,PR
+20,Rough Duct Work @ Public Restrooms,10,26-Jan-16,27-Jan-16,PR
+60,Rough Electrical/FA/BMS @ Public Restrooms,10,3-Feb-16,3-Feb-16,PR
+30,Rough Mechanical Piping @ Public Restrooms,10,28-Jan-16,4-Feb-16,PR
+40,Rough Plumbing @ Public Restrooms,10,1-Feb-16,2-Feb-16,PR
+50,Rough Sprinkler @ Public Restrooms,10,21-Jan-16,25-Jan-16,PR
+110,Sheetrock & Tape Walls & Celings @ Public Restrooms,15,26-Feb-16,1-Mar-16,PR

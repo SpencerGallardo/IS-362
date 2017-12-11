@@ -1,145 +1,125 @@
 id,status,wbs,act_name,duration,start,finish,floor_id
-NA.03010,Not Started,BH.BL-4.115 Nassau1.Floors.4,Layout & Top Track @ 3rd Floor,6,14-Jul-14,20-Aug-14,03
-NA.03017,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame & Core Board Risers/Stairs/Elevators @ 3rd Floor,10,21-Aug-14,15-Sep-14,03
-NA.03020,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Duct Work @ 3rd Floor,10,22-Aug-14,26-Aug-14,03
-NA.03030,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Mechanical Piping @ 3rd Floor,10,22-Aug-14,26-Aug-14,03
-NA.03040,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Plumbing @ 3rd Floor,10,22-Aug-14,26-Aug-14,03
-NA.03050,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Sprinkler @ 3rd Floor,10,22-Aug-14,26-Aug-14,03
-NA.03060,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Electrical @ 3rd Floor,10,22-Aug-14,26-Aug-14,03
-NA.03070,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame Walls & Ceilings @ 3rd Floor,10,,,03
-NA.03080,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Frames & Crotons @ 3rd Floor,5,,,03
-NA.03090,Not Started,BH.BL-4.115 Nassau1.Floors.4,Pull Wire @ 3rd Floor,15,,,03
-NA.03100,Not Started,BH.BL-4.115 Nassau1.Floors.4,Firestopping & Inspections @ 3rd Floor,5,,,03
-NA.03110,Not Started,BH.BL-4.115 Nassau1.Floors.4,Sheetrock & Tape Walls & Celings @ 3rd Floor,15,,,03
-NA.03120,Not Started,BH.BL-4.115 Nassau1.Floors.4,Prime Paint @ 3rd Floor,5,,,03
-NA.03127,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Gym Wall Paneling @ 3rd Floor,5,,,03
-NA.03130,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Mechanical Finishes @ 3rd Floor,2,,,03
-NA.03140,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Sprinkler Heads @ 3rd Floor,4,,,03
-NA.03150,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Finishes @ 3rd Floor,1,,,03
-NA.03160,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Electrical Finishes @ 3rd Floor,4,,,03
-NA.03170,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Lighting @ 3rd Floor,4,,,03
-NA.03180,Not Started,BH.BL-4.115 Nassau1.Floors.4,"Install Vanity, Sink & Shower Enclosure @ 3rd Floor",6,,,03
-NA.03190,Not Started,BH.BL-4.115 Nassau1.Floors.4,Tile Bathroom Floors & Walls @ 3rd Floor,12,,,03
-NA.03194,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Bathroom Fixtures & Accessories @ 3rd Floor,5,,,03
-NA.03197,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Gym Flooring @ 3rd Floor,10,,,03
-NA.03230,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Flooring & Carpet @ 3rd Floor,6,,,03
-NA.03250,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Architectural Finishes & Trim @ 3rd Floor,10,,,03
-NA.03260,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Doors @ 3rd Floor,5,,,03
-NA.03270,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Corridor Carpet @ 3rd Floor,3,,,03
-NA.03280,Not Started,BH.BL-4.115 Nassau1.Floors.4,Perform Plumbing & Sprinkler Finish Inspection @ 3rd Floor,1,,,03
-NA.03290,Not Started,BH.BL-4.115 Nassau1.Floors.4,Final Paint Coat on Walls & Trim @ 3rd Floor,4,,,03
-NA.03300,Not Started,BH.BL-4.115 Nassau1.Floors.4,Punchlist @ 3rd Floor,5,,,03
-NA.11M010,Not Started,BH.BL-4.115 Nassau1.Floors.4,Layout & Top Track @ 11th Floor Amenities,6,2-May-16,6-May-16,11M
-NA.11M017,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame & Core Board Risers/Stairs/Elevators @ 11th Floor Amenities,10,11-May-16,20-May-16,11M
-NA.11M020,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Duct Work @ 11th Floor Amenities,10,6-May-16,10-May-16,11M
-NA.11M030,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Mechanical Piping @ 11th Floor Amenities,10,6-May-16,10-May-16,11M
-NA.11M040,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Plumbing @ 11th Floor Amenities,10,6-May-16,10-May-16,11M
-NA.11M050,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Sprinkler @ 11th Floor Amenities,10,6-May-16,10-May-16,11M
-NA.11M060,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Electrical @ 11th Floor Amenities,10,6-May-16,10-May-16,11M
-NA.11M070,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame Walls & Ceilings @ 11th Floor Amenities,10,23-May-16,6-Jun-16,11M
-NA.11M080,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Frames & Crotons @ 11th Floor Amenities,5,7-Jun-16,,11M
-NA.11M090,Not Started,BH.BL-4.115 Nassau1.Floors.4,Pull Wire @ 11th Floor Amenities,15,9-Jun-16,,11M
-NA.11M100,Not Started,BH.BL-4.115 Nassau1.Floors.4,Firestopping & Inspections @ 11th Floor Amenities,5,,,11M
-NA.11M110,Not Started,BH.BL-4.115 Nassau1.Floors.4,Sheetrock & Tape Walls & Celings @ 11th Floor Amenities,15,,,11M
-NA.11M120,Not Started,BH.BL-4.115 Nassau1.Floors.4,Prime Paint @ 11th Floor Amenities,5,,,11M
-NA.11M130,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Mechanical Finishes @ 11th Floor Amenities,2,,,11M
-NA.11M140,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Sprinkler Heads @ 11th Floor Amenities,4,,,11M
-NA.11M150,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Finishes @ 11th Floor Amenities,1,,,11M
-NA.11M160,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Electrical Finishes @ 11th Floor Amenities,4,,,11M
-NA.11M170,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Lighting @ 11th Floor Amenities,4,,,11M
-NA.11M190,Not Started,BH.BL-4.115 Nassau1.Floors.4,Tile Bathroom Floors & Walls @ 11th Floor Amenities,12,,,11M
-NA.11M194,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Bathroom Fixtures & Accessories @ 11th Floor Amenities,5,,,11M
-NA.11M200,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Kitchen Cabinets @ 11th Floor Amenities,8,,,11M
-NA.11M210,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Kitchen Counters @ 11th Floor Amenities,5,,,11M
-NA.11M220,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Kitchen Sink @ 11th Floor Amenities,3,,,11M
-NA.11M230,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Flooring & Carpet @ 11th Floor Amenities,6,,,11M
-NA.11M240,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Kitchen Appliances @ 11th Floor Amenities,5,,,11M
-NA.11M250,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Architectural Finishes & Trim @ 11th Floor Amenities,10,,,11M
-NA.11M260,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Doors @ 11th Floor Amenities,5,,,11M
-NA.11M280,Not Started,BH.BL-4.115 Nassau1.Floors.4,Perform Plumbing & Sprinkler Finish Inspection @ 11th Floor Amenities,1,,,11M
-NA.11M290,Not Started,BH.BL-4.115 Nassau1.Floors.4,Final Paint Coat on Walls & Trim @ 11th Floor Amenities,4,,,11M
-NA.11M300,Not Started,BH.BL-4.115 Nassau1.Floors.4,Punchlist @ 11th Floor Amenities,5,,,11M
-NA.11M990,Not Started,BH.BL-4.115 Nassau1.Floors.4,Storefront Installation @ 11th Floor Amenities,10,25-Jul-16,31-Jul-16,11M
-NA.1L010,Not Started,BH.BL-4.115 Nassau1.Floors.4,Layout & Top Track @ 1st floor (Excluding Lobby Finishes),6,9-Sep-14,18-Sep-14,1L
-NA.1L012,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install CMU Walls @ 1st floor (Excluding Lobby Finishes),15,,,1L
-NA.1L015,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Overhead Door @ 1st floor (Excluding Lobby Finishes),5,,,1L
-NA.1L017,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame & Core Board Risers/Stairs/Elevators @ 1st floor (Excluding Lobby Finishes),10,19-Sep-14,6-Oct-14,1L
-NA.1L020,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Duct Work @ 1st floor (Excluding Lobby Finishes),10,22-Sep-14,24-Sep-14,1L
-NA.1L030,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Mechanical Piping @ 1st floor (Excluding Lobby Finishes),10,22-Sep-14,24-Sep-14,1L
-NA.1L040,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Plumbing @ 1st floor (Excluding Lobby Finishes),10,22-Sep-14,24-Sep-14,1L
-NA.1L050,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Sprinkler @ 1st floor (Excluding Lobby Finishes),10,22-Sep-14,24-Sep-14,1L
-NA.1L060,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Electrical @ 1st floor (Excluding Lobby Finishes),10,22-Sep-14,24-Sep-14,1L
-NA.1L070,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame Walls & Ceilings @ 1st floor (Excluding Lobby Finishes),10,,,1L
-NA.1L080,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Frames & Crotons @ 1st floor (Excluding Lobby Finishes),5,,,1L
-NA.1L090,Not Started,BH.BL-4.115 Nassau1.Floors.4,Pull Wire @ 1st floor (Excluding Lobby Finishes),15,,,1L
-NA.1L100,Not Started,BH.BL-4.115 Nassau1.Floors.4,Firestopping & Inspections @ 1st floor (Excluding Lobby Finishes),5,,,1L
-NA.1L110,Not Started,BH.BL-4.115 Nassau1.Floors.4,Sheetrock & Tape Walls & Celings @ 1st floor (Excluding Lobby Finishes),15,,,1L
-NA.1L120,Not Started,BH.BL-4.115 Nassau1.Floors.4,Prime Paint @ 1st floor (Excluding Lobby Finishes),5,,,1L
-NA.1L130,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Mechanical Finishes @ 1st floor (Excluding Lobby Finishes),2,,,1L
-NA.1L140,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Sprinkler Heads @ 1st floor (Excluding Lobby Finishes),4,,,1L
-NA.1L150,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Finishes @ 1st floor (Excluding Lobby Finishes),1,,,1L
-NA.1L160,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Electrical Finishes @ 1st floor (Excluding Lobby Finishes),4,,,1L
-NA.1L170,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Lighting @ 1st floor (Excluding Lobby Finishes),4,,,1L
-NA.1L190,Not Started,BH.BL-4.115 Nassau1.Floors.4,Tile Bathroom Floors & Walls @ 1st floor (Excluding Lobby Finishes),12,,,1L
-NA.1L194,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Bathroom Fixtures & Accessories @ 1st floor (Excluding Lobby Finishes),5,,,1L
-NA.1L230,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Flooring & Carpet @ 1st floor (Excluding Lobby Finishes),6,,,1L
-NA.1L250,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Architectural Finishes & Trim @ 1st floor (Excluding Lobby Finishes),10,,,1L
-NA.1L260,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Doors @ 1st floor (Excluding Lobby Finishes),5,,,1L
-NA.1L290,Not Started,BH.BL-4.115 Nassau1.Floors.4,Final Paint Coat on Walls & Trim @ 1st floor (Excluding Lobby Finishes),4,,,1L
-NA.1L295,Not Started,BH.BL-4.115 Nassau1.Floors.4,Paint Floors @ 1st floor (Excluding Lobby Finishes),3,,,1L
-NA.1L300,Not Started,BH.BL-4.115 Nassau1.Floors.4,Punchlist @ 1st floor (Excluding Lobby Finishes),5,,,1L
-NA.CL010,Not Started,BH.BL-4.115 Nassau1.Floors.4,Layout & Top Track @ Cellar,6,2-Sep-14,11-Sep-14,CL
-NA.CL017,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame & Core Board Risers/Stairs/Elevators @ Cellar,10,12-Sep-14,29-Sep-14,CL
-NA.CL020,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Duct Work @ Cellar,10,15-Sep-14,17-Sep-14,CL
-NA.CL030,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Mechanical Piping @ Cellar,10,15-Sep-14,17-Sep-14,CL
-NA.CL040,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Plumbing @ Cellar,10,15-Sep-14,17-Sep-14,CL
-NA.CL050,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Sprinkler @ Cellar,10,15-Sep-14,17-Sep-14,CL
-NA.CL060,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Electrical @ Cellar,10,15-Sep-14,17-Sep-14,CL
-NA.CL070,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame Walls & Ceilings @ Cellar,10,4-Apr-16,22-Apr-16,CL
-NA.CL080,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Frames & Crotons @ Cellar,5,25-Apr-16,3-May-16,CL
-NA.CL090,Not Started,BH.BL-4.115 Nassau1.Floors.4,Pull Wire @ Cellar,15,4-May-16,24-May-16,CL
-NA.CL100,Not Started,BH.BL-4.115 Nassau1.Floors.4,Firestopping & Inspections @ Cellar,5,25-May-16,15-Jun-16,CL
-NA.CL110,Not Started,BH.BL-4.115 Nassau1.Floors.4,Sheetrock & Tape Walls & Celings @ Cellar,15,,,CL
-NA.CL120,Not Started,BH.BL-4.115 Nassau1.Floors.4,Prime Paint @ Cellar,5,,,CL
-NA.CL130,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Mechanical Finishes @ Cellar,2,,,CL
-NA.CL140,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Sprinkler Heads @ Cellar,4,,,CL
-NA.CL150,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Finishes @ Cellar,1,,,CL
-NA.CL160,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Electrical Finishes @ Cellar,4,,,CL
-NA.CL170,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Lighting @ Cellar,4,,,CL
-NA.CL175,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Hotel Kitchen Food Service Equipment @ Cellar,20,,,CL
-NA.CL190,Not Started,BH.BL-4.115 Nassau1.Floors.4,Tile Bathroom Floors & Walls @ Cellar,12,,,CL
-NA.CL230,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Flooring & Carpet @ Cellar,6,,,CL
-NA.CL245,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Lockers @ Cellar,10,,,CL
-NA.CL250,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Architectural Finishes & Trim @ Cellar,10,,,CL
-NA.CL260,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Doors @ Cellar,5,,,CL
-NA.CL270,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Corridor Carpet @ Cellar,3,,,CL
-NA.CL280,Not Started,BH.BL-4.115 Nassau1.Floors.4,Perform Plumbing & Sprinkler Finish Inspection @ Cellar,1,,,CL
-NA.CL290,Not Started,BH.BL-4.115 Nassau1.Floors.4,Final Paint Coat on Walls & Trim @ Cellar,4,,,CL
-NA.CL300,Not Started,BH.BL-4.115 Nassau1.Floors.4,Punchlist @ Cellar,5,,,CL
-NA.SC010,Not Started,BH.BL-4.115 Nassau1.Floors.4,Layout & Top Track @ Subcellar,6,7-Aug-14,18-Aug-14,SC
-NA.SC012,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install CMU Walls @ Subcellar,15,8-Aug-14,14-Oct-14,SC
-NA.SC017,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame & Core Board Risers/Stairs/Elevators @ Subcellar,10,3-Jul-14,29-Apr-15,SC
-NA.SC020,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Duct Work @ Subcellar,10,30-Jun-14,2-Jul-14,SC
-NA.SC030,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Mechanical Piping @ Subcellar,10,30-Jun-14,2-Jul-14,SC
-NA.SC040,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Plumbing @ Subcellar,10,30-Jun-14,2-Jul-14,SC
-NA.SC050,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Sprinkler @ Subcellar,10,30-Jun-14,2-Jul-14,SC
-NA.SC060,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Electrical @ Subcellar,10,30-Jun-14,2-Jul-14,SC
-NA.SC070,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame Walls & Ceilings @ Subcellar,10,2-Sep-14,20-May-15,SC
-NA.SC080,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Frames & Crotons @ Subcellar,5,3-Sep-14,11-Sep-14,SC
-NA.SC090,Not Started,BH.BL-4.115 Nassau1.Floors.4,Pull Wire @ Subcellar,15,12-Sep-14,5-May-15,SC
-NA.SC100,Not Started,BH.BL-4.115 Nassau1.Floors.4,Firestopping & Inspections @ Subcellar,5,6-May-15,8-Jun-15,SC
-NA.SC110,Not Started,BH.BL-4.115 Nassau1.Floors.4,Sheetrock & Tape Walls & Celings @ Subcellar,15,11-May-15,22-Jun-15,SC
-NA.SC120,Not Started,BH.BL-4.115 Nassau1.Floors.4,Prime Paint @ Subcellar,5,30-Jun-15,6-Jul-15,SC
-NA.SC123,Not Started,BH.BL-4.115 Nassau1.Floors.4,Flash Patch Floor @ Subcellar,5,7-Jul-15,8-Jul-15,SC
-NA.SC130,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Mechanical Finishes @ Subcellar,2,3-Jun-15,4-Jun-15,SC
-NA.SC140,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Sprinkler Heads @ Subcellar,4,28-May-15,1-Jun-15,SC
-NA.SC150,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Finishes @ Subcellar,1,2-Jun-15,2-Jun-15,SC
-NA.SC160,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Electrical Finishes @ Subcellar,4,6-Aug-15,7-Aug-15,SC
-NA.SC170,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Lighting @ Subcellar,4,21-May-15,27-May-15,SC
-NA.SC230,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Flooring & Carpet @ Subcellar,6,9-Jul-15,16-Jul-15,SC
-NA.SC250,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Architectural Finishes & Trim @ Subcellar,10,17-Jul-15,30-Jul-15,SC
-NA.SC260,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Doors @ Subcellar,5,23-Jun-15,29-Jun-15,SC
-NA.SC270,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Corridor Carpet @ Subcellar,3,10-Aug-15,10-Aug-15,SC
-NA.SC280,Not Started,BH.BL-4.115 Nassau1.Floors.4,Perform Plumbing & Sprinkler Finish Inspection @ Subcellar,1,11-Aug-15,11-Aug-15,SC
-NA.SC290,Not Started,BH.BL-4.115 Nassau1.Floors.4,Final Paint Coat on Walls & Trim @ Subcellar,4,31-Jul-15,5-Aug-15,SC
-NA.SC300,Not Started,BH.BL-4.115 Nassau1.Floors.4,Punchlist @ Subcellar,5,12-Aug-15,18-Aug-15,SC
+NA.FR1010,Not Started,BH.BL-4.115 Nassau1.Floors.4,Layout & Top Track @ Function Room 1,5,4-Apr-16,5-Apr-16,FR1
+NA.FR1012,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install CMU Walls @ Function Room 1,15,9-May-16,,FR1
+NA.FR1017,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame & Core Board Risers/Stairs/Elevators @ Function Room 1,10,2-May-16,3-May-16,FR1
+NA.FR1020,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Duct Work @ Function Room 1,10,6-Apr-16,7-Apr-16,FR1
+NA.FR1030,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Mechanical Piping @ Function Room 1,10,6-Apr-16,27-Apr-16,FR1
+NA.FR1040,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Plumbing @ Function Room 1,10,6-Apr-16,7-Apr-16,FR1
+NA.FR1060,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Electrical/FA/BMS @ Function Room 1,10,7-Apr-16,27-Apr-16,FR1
+NA.FR1070,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame Walls & Ceilings @ Function Room 1,10,,,FR1
+NA.FR1100,Not Started,BH.BL-4.115 Nassau1.Floors.4,Firestopping & Inspections @ Function Room 1,5,28-Apr-16,29-Apr-16,FR1
+NA.FR1120,Not Started,BH.BL-4.115 Nassau1.Floors.4,Prime Paint @ Function Room 1,5,,,FR1
+NA.FR1130,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Mechanical Finishes @ Function Room 1,2,,,FR1
+NA.FR1140,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Sprinkler Heads @ Function Room 1,4,,,FR1
+NA.FR1150,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Finishes @ Function Room 1,2,,,FR1
+NA.FR1160,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Electrical Finishes @ Function Room 1,5,,,FR1
+NA.FR1170,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Lighting @ Function Room 1,4,,,FR1
+NA.FR1173,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install FA Devices @ Function Room 1,5,,,FR1
+NA.FR1230,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Flooring @ Function Room 1,6,,,FR1
+NA.FR1250,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Architectural Finishes & Trim  @ Function Room 1,10,,,FR1
+NA.FR1257,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Millwork @ Function Room 1,15,,,FR1
+NA.FR1262,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Movable Partitions @ Function Room 1,5,,,FR1
+NA.FR1280,Not Started,BH.BL-4.115 Nassau1.Floors.4,Perform Plumbing & Sprinkler Finish Inspection @ Function Room 1,1,,,FR1
+NA.FR1290,Not Started,BH.BL-4.115 Nassau1.Floors.4,Final Paint @ Function Room 1,4,,,FR1
+NA.FR1300,Not Started,BH.BL-4.115 Nassau1.Floors.4,Punchlist  @ Function Room 1,5,6-Apr-16,7-Apr-16,FR1
+NA.FR2010,Not Started,BH.BL-4.115 Nassau1.Floors.4,Layout & Top Track @ Function Room 2,5,8-Apr-16,8-Apr-16,FR2
+NA.FR2012,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install CMU Walls @ Function Room 2,15,,,FR2
+NA.FR2017,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame & Core Board Risers/Stairs/Elevators @ Function Room 2,10,,,FR2
+NA.FR2020,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Duct Work @ Function Room 2,10,8-Apr-16,8-Apr-16,FR2
+NA.FR2030,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Mechanical Piping @ Function Room 2,10,11-Apr-16,3-May-16,FR2
+NA.FR2040,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Plumbing @ Function Room 2,10,21-Apr-16,29-Apr-16,FR2
+NA.FR2060,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Electrical/FA/BMS @ Function Room 2,10,2-May-16,2-May-16,FR2
+NA.FR2070,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame Walls & Ceilings @ Function Room 2,10,,,FR2
+NA.FR2100,Not Started,BH.BL-4.115 Nassau1.Floors.4,Firestopping & Inspections @ Function Room 2,5,4-May-16,5-May-16,FR2
+NA.FR2120,Not Started,BH.BL-4.115 Nassau1.Floors.4,Prime Paint @ Function Room 2,5,,,FR2
+NA.FR2130,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Mechanical Finishes @ Function Room 2,2,,,FR2
+NA.FR2140,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Sprinkler Heads @ Function Room 2,4,,,FR2
+NA.FR2150,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Finishes @ Function Room 2,2,,,FR2
+NA.FR2160,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Electrical Finishes @ Function Room 2,5,,,FR2
+NA.FR2170,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Lighting @ Function Room 2,4,,,FR2
+NA.FR2173,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install FA Devices @ Function Room 2,5,,,FR2
+NA.FR2230,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Flooring @ Function Room 2,6,,,FR2
+NA.FR2250,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Architectural Finishes & Trim  @ Function Room 2,10,8-Sep-15,10-Sep-15,FR2
+NA.FR2257,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Millwork @ Function Room 2,15,,,FR2
+NA.FR2262,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Movable Partitions @ Function Room 2,5,,,FR2
+NA.FR2280,Not Started,BH.BL-4.115 Nassau1.Floors.4,Perform Plumbing & Sprinkler Finish Inspection @ Function Room 2,1,14-Sep-15,17-Sep-15,FR2
+NA.FR2290,Not Started,BH.BL-4.115 Nassau1.Floors.4,Final Paint @ Function Room 2,4,,,FR2
+NA.FR2300,Not Started,BH.BL-4.115 Nassau1.Floors.4,Punchlist  @ Function Room 2,5,1-Oct-15,2-Oct-15,FR2
+NA.LNG010,Not Started,BH.BL-4.115 Nassau1.Floors.4,Layout & Top Track @ Lounge,5,,,LNG
+NA.LNG017,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame & Core Board Risers/Stairs/Elevators @ Lounge,10,,,LNG
+NA.LNG020,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Duct Work @ Lounge,10,,,LNG
+NA.LNG050,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Sprinkler @ Lounge,10,,,LNG
+NA.LNG070,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame Walls & Ceilings @ Lounge,10,,,LNG
+NA.LNG080,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Frames & Crotons @ Lounge,5,,,LNG
+NA.LNG090,Not Started,BH.BL-4.115 Nassau1.Floors.4,Pull Wire @ Lounge,15,,,LNG
+NA.LNG100,Not Started,BH.BL-4.115 Nassau1.Floors.4,Firestopping & Inspections @ Lounge,5,,,LNG
+NA.LNG110,Not Started,BH.BL-4.115 Nassau1.Floors.4,Sheetrock & Tape Walls & Celings @ Lounge,15,,,LNG
+NA.LNG120,Not Started,BH.BL-4.115 Nassau1.Floors.4,Prime Paint @ Lounge,5,,,LNG
+NA.LNG123,Not Started,BH.BL-4.115 Nassau1.Floors.4,Flash Patch Floor @ Lounge,5,,,LNG
+NA.LNG130,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Mechanical Finishes @ Lounge,2,,,LNG
+NA.LNG140,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Sprinkler Heads @ Lounge,4,,,LNG
+NA.LNG150,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Finishes @ Lounge,2,,,LNG
+NA.LNG160,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Electrical Finishes @ Lounge,5,,,LNG
+NA.LNG170,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Lighting @ Lounge,4,,,LNG
+NA.LNG173,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install FA Devices @ Lounge,5,,,LNG
+NA.LNG177,Not Started,BH.BL-4.115 Nassau1.Floors.4,Tile Bar Surround Floors @ Lounge,5,,,LNG
+NA.LNG185,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Ceiling Tile @ Lounge,5,,,LNG
+NA.LNG250,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Architectural Finishes & Trim  @ Lounge,10,,,LNG
+NA.LNG253,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install & Protect Wood Flooring @ Lounge,5,,,LNG
+NA.LNG257,Not Started,BH.BL-4.115 Nassau1.Floors.4,Set Bar & Built in Furniture @ Lounge,15,,,LNG
+NA.LNG260,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Doors @ Lounge,5,,,LNG
+NA.LNG270,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Corridor Flooring @ Lounge,5,,,LNG
+NA.LNG280,Not Started,BH.BL-4.115 Nassau1.Floors.4,Perform Plumbing & Sprinkler Finish Inspection @ Lounge,1,,,LNG
+NA.LNG290,Not Started,BH.BL-4.115 Nassau1.Floors.4,Final Paint @ Lounge,4,,,LNG
+NA.LNG300,Not Started,BH.BL-4.115 Nassau1.Floors.4,Punchlist  @ Lounge,5,,,LNG
+NA.PFS010,Not Started,BH.BL-4.115 Nassau1.Floors.4,Layout & Top Track @ Pre-function Space,5,15-Oct-15,,PFS
+NA.PFS012,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install CMU Walls @ Pre-function Space,15,19-Oct-15,,PFS
+NA.PFS017,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame & Core Board Risers/Stairs/Elevators @ Pre-function Space,10,19-Oct-15,,PFS
+NA.PFS020,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Duct Work @ Pre-function Space,10,19-Oct-15,,PFS
+NA.PFS030,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Mechanical Piping @ Pre-function Space,10,19-Oct-15,31-Dec-15,PFS
+NA.PFS040,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Plumbing @ Pre-function Space,10,19-Oct-15,30-Oct-15,PFS
+NA.PFS050,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Sprinkler @ Pre-function Space,10,19-Oct-15,,PFS
+NA.PFS060,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Electrical/FA/BMS @ Pre-function Space,10,10-Nov-15,11-Nov-15,PFS
+NA.PFS070,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame Walls & Ceilings @ Pre-function Space,10,19-Oct-15,30-Oct-15,PFS
+NA.PFS100,Not Started,BH.BL-4.115 Nassau1.Floors.4,Firestopping & Inspections @ Pre-function Space,5,19-Oct-15,18-Nov-15,PFS
+NA.PFS120,Not Started,BH.BL-4.115 Nassau1.Floors.4,Prime Paint @ Pre-function Space,5,,,PFS
+NA.PFS130,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Mechanical Finishes @ Pre-function Space,2,,,PFS
+NA.PFS140,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Sprinkler Heads @ Pre-function Space,4,,,PFS
+NA.PFS150,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Finishes @ Pre-function Space,2,1-Dec-15,7-Dec-15,PFS
+NA.PFS160,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Electrical Finishes @ Pre-function Space,5,,,PFS
+NA.PFS170,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Lighting @ Pre-function Space,4,,,PFS
+NA.PFS173,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install FA Devices @ Pre-function Space,5,8-Dec-15,14-Dec-15,PFS
+NA.PFS230,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Flooring @ Pre-function Space,6,,,PFS
+NA.PFS250,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Architectural Finishes & Trim  @ Pre-function Space,10,17-Dec-15,18-Dec-15,PFS
+NA.PFS257,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Millwork @ Pre-function Space,15,,,PFS
+NA.PFS262,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Movable Partitions @ Pre-function Space,5,15-Dec-15,16-Dec-15,PFS
+NA.PFS280,Not Started,BH.BL-4.115 Nassau1.Floors.4,Perform Plumbing & Sprinkler Finish Inspection @ Pre-function Space,1,21-Dec-15,5-Jan-16,PFS
+NA.PFS290,Not Started,BH.BL-4.115 Nassau1.Floors.4,Final Paint @ Pre-function Space,4,,,PFS
+NA.PFS300,Not Started,BH.BL-4.115 Nassau1.Floors.4,Punchlist  @ Pre-function Space,5,6-Jan-16,7-Jan-16,PFS
+NA.PR010,Not Started,BH.BL-4.115 Nassau1.Floors.4,Layout & Top Track @ Public Restrooms,5,18-Jan-16,20-Jan-16,PR
+NA.PR017,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame & Core Board Risers/Stairs/Elevators @ Public Restrooms,10,5-Feb-16,5-Feb-16,PR
+NA.PR020,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Duct Work @ Public Restrooms,10,26-Jan-16,27-Jan-16,PR
+NA.PR030,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Mechanical Piping @ Public Restrooms,10,28-Jan-16,4-Feb-16,PR
+NA.PR040,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Plumbing @ Public Restrooms,10,1-Feb-16,2-Feb-16,PR
+NA.PR050,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Sprinkler @ Public Restrooms,10,21-Jan-16,25-Jan-16,PR
+NA.PR060,Not Started,BH.BL-4.115 Nassau1.Floors.4,Rough Electrical/FA/BMS @ Public Restrooms,10,3-Feb-16,3-Feb-16,PR
+NA.PR070,Not Started,BH.BL-4.115 Nassau1.Floors.4,Frame Walls & Ceilings @ Public Restrooms,10,8-Feb-16,23-Mar-16,PR
+NA.PR080,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Frames & Crotons @ Public Restrooms,5,15-Feb-16,16-Feb-16,PR
+NA.PR090,Not Started,BH.BL-4.115 Nassau1.Floors.4,Pull Wire @ Public Restrooms,15,17-Feb-16,22-Feb-16,PR
+NA.PR100,Not Started,BH.BL-4.115 Nassau1.Floors.4,Firestopping & Inspections @ Public Restrooms,5,23-Feb-16,1-Jun-17,PR
+NA.PR110,Not Started,BH.BL-4.115 Nassau1.Floors.4,Sheetrock & Tape Walls & Celings @ Public Restrooms,15,26-Feb-16,1-Mar-16,PR
+NA.PR120,Not Started,BH.BL-4.115 Nassau1.Floors.4,Prime Paint @ Public Restrooms,5,,,PR
+NA.PR123,Not Started,BH.BL-4.115 Nassau1.Floors.4,Flash Patch Floor @ Public Restrooms,5,2-Mar-16,9-Mar-16,PR
+NA.PR130,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Mechanical Finishes @ Public Restrooms,2,14-Apr-16,25-May-16,PR
+NA.PR140,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Sprinkler Heads @ Public Restrooms,4,4-Apr-16,7-Apr-16,PR
+NA.PR150,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Plumbing Finishes @ Public Restrooms,2,8-Apr-16,13-Apr-16,PR
+NA.PR160,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Electrical Finishes @ Public Restrooms,5,,,PR
+NA.PR170,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Lighting @ Public Restrooms,4,24-Mar-16,25-Mar-16,PR
+NA.PR173,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install FA Devices @ Public Restrooms,5,28-Mar-16,1-Apr-16,PR
+NA.PR185,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Ceiling Tile @ Public Restrooms,5,,,PR
+NA.PR230,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Flooring @ Public Restrooms,6,,,PR
+NA.PR250,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Architectural Finishes & Trim  @ Public Restrooms,10,,,PR
+NA.PR270,Not Started,BH.BL-4.115 Nassau1.Floors.4,Install Corridor Flooring @ Public Restrooms,5,,,PR
+NA.PR280,Not Started,BH.BL-4.115 Nassau1.Floors.4,Perform Plumbing & Sprinkler Finish Inspection @ Public Restrooms,1,,,PR
+NA.PR290,Not Started,BH.BL-4.115 Nassau1.Floors.4,Final Paint @ Public Restrooms,4,,,PR
+NA.PR300,Not Started,BH.BL-4.115 Nassau1.Floors.4,Punchlist  @ Public Restrooms,5,,,PR
